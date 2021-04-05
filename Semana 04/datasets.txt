@@ -1,0 +1,19 @@
+Ejercicio 26
+
++--------------------------------+--------------+--------------------------+
+|          RazonSocial           |     cuit     |         Contacto         |
++--------------------------------+--------------+--------------------------+
+| Brian Lara                     | 11-111111-1  | hola@brianlara.com.ar    |
+| Legna Nomis                    | 44-44444-4   | hola@legnanomis.com.ar   |
+| Kloster Inc                    | 99           | (49) 08363362115         |
+| UTN                            | 22-222222-2  | info@utn.edu.ar          |
+| World Animal Protection        | 98           | wap@wap.org              |
+| Clifton Goldney Inc            | 33-333333-3  | clifton@goldney.com.ar   |
+| Strebern Ich                   | 55-555555-5  | Incontactable            |
+| Vaca SA                        | 66-666666-6  | info@alancow.com.ar      |
+| Hugo Gomez                     | 77-777777-7  | hola@hugo.com.ar         |
+| Adducci                        | 88-888888-8  | adducci@gmail.com        |
+| Estudio Contable Arevalo y Cia | 99-999999-9  | arevalo@yahoo.com.ar     |
+| White SA                       | 11-0000000-1 | nazarenwhite@hotmail.com |
++--------------------------------+--------------+--------------------------+
+
