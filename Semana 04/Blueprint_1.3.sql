@@ -6,7 +6,7 @@ USE Blueprint
 GO
 CREATE TABLE TiposClientes(
   ID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
-  Descripcion VARCHAR(50) NOT NULL UNIQUE
+  Descripcion VARCHAR(50) NOT NULL
 )
 GO
 CREATE TABLE Clientes(
