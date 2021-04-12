@@ -1,0 +1,93 @@
+Consulta 12
++------------+
+|   Ciudad   |
++------------+
+| Austin     |
+| Boston     |
+| Chicago    |
+| Cordoba    |
+| Leeds      |
+| Montevideo |
+| Palermo    |
+| Posadas    |
+| Roma       |
++------------+
+
+Consulta 15
++--------------------+-------------+--------------+----------------+------------+
+|      Apellido      |   Nombre    |    Módulo    | ValorHora Base | ValorHora  |
++--------------------+-------------+--------------+----------------+------------+
+| Pablo Agustín      | Ibazeta     | Staff        |      1500.0000 |  2445.0000 |
+| Luciano Federico   | Yomayel     | Staff        |      1500.0000 |  2417.0000 |
+| Alexander Alberto  | Popp        | Monetización |      1500.0000 |  2433.0000 |
+| Lucas              | Crucci      | Sistema      |      1500.0000 |  2284.0000 |
+| Walter Emmanuel    | Stamm       | Clases       |      1500.0000 |  2307.0000 |
+| Zair Andres        | Mar Cardozo | Faker        |      1500.0000 |  2305.0000 |
++--------------------+-------------+--------------+----------------+------------+
+
+Consulta 16
++----------------+----------+--------+
+|    Apellido    |  Nombre  | Tiempo |
++----------------+----------+--------+
+| Adriel Elian   | Rasjido  |    110 |
+| Alexis Damian  | Figueira |    106 |
+| Valentin       | Plaza    |     99 |
++----------------+----------+--------+
+
+Consulta 17
++-------------------+------------+-----------------------------+
+|     Apellido      |   Nombre   |            Email            |
++-------------------+------------+-----------------------------+
+| Isidoro           | Arostegui  | iarostegui@nasa.gov         |
+| Paola Elizabeth   | Barrios    | pneighborhood@me.dev        |
+| Cecilia Verónica  | Galarza    | cgalarza@utn.edu.ar         |
+| Sofia Noemi       | Vigliaccio | svigliaccio@frgp.utn.edu.ar |
++-------------------+------------+-----------------------------+
+
+Consulta 20
++------------------------+----------------------+
+|        Apellido        |        Nombre        |
++------------------------+----------------------+
+| Adriel Elian           | Rasjido              |
+| Agustin Lautaro        | Robles               |
+| Alejandro              | Virasoro             |
+| Alejandro Agustin      | Badano               |
+| Alejandro Matias       | Gazzo                |
+| Alexander Alberto      | Popp                 |
+| Alexis Damian          | Figueira             |
+| Bruno Alexis           | Ferrante             |
+| Bruno Mauricio         | Molteni              |
+| Cecilia Verónica       | Galarza              |
+| Daniel Alejandro       | Trunso               |
+| Edgardo Simon          | Gonzalez             |
+| Elizabeth Carolina     | Ayala                |
+| Elmer Dennis           | Vasquez Quispe       |
+| Emiliano               | Del Pino             |
+| Federico Damian        | Di Fulvio            |
+| German Emanuel         | Mena                 |
+| Ignacio                | Petrignani Castro    |
+| Isidoro                | Arostegui            |
+| Javier Agustin         | Larroca              |
+| Joaquin                | Achaval Duria        |
+| Jonathan Daniel        | Martinez             |
+| Leonardo Ezequiel      | Alpuin Schunk        |
+| Leonardo Martin        | Scalesi              |
+| Lucas                  | Crucci               |
+| Luciano Federico       | Yomayel              |
+| Mathias Leandro        | Tejeda               |
+| Matias                 | Sanchez Villar       |
+| Matias Andres          | Fahler               |
+| Matias Joel            | Quintana Soria       |
+| Maximiliano Guillermo  | Miranda              |
+| Nahuel Alejandro       | Godoy                |
+| Pablo Agustín          | Ibazeta              |
+| Paola Elizabeth        | Barrios              |
+| Sofia Noemi            | Vigliaccio           |
+| Tomas                  | Scutti               |
+| Valentin               | Plaza                |
+| Walter Emmanuel        | Stamm                |
+| Yesica Regina          | Laurentino Goncalves |
+| Zair Andres            | Mar Cardozo          |
++------------------------+----------------------+
+
+
