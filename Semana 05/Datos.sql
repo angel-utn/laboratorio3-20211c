@@ -1860,3 +1860,7 @@ INSERT [dbo].[Colaboraciones] ([IDTarea], [IDColaborador], [Tiempo], [PrecioHora
 GO
 INSERT [dbo].[Colaboraciones] ([IDTarea], [IDColaborador], [Tiempo], [PrecioHora], [Estado]) VALUES (235, 34, 108, 8729.0000, 1)
 GO
+update clientes set idciudad = null
+where ID in (8,9)
+GO
+insert into paises values ('Nigeria')
