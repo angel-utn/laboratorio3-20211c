@@ -1,0 +1,857 @@
+10
+
++--------------------------------------------+----------+
+|                   Nombre                   | Cantidad |
++--------------------------------------------+----------+
+| Análisis de requerimientos                 |       40 |
+| Configuración de ambientes de programación |       28 |
+| Diseño de base de datos                    |       46 |
+| Diseño de experiencia del usuario          |       43 |
+| Diseño de interfaz UI                      |       54 |
+| Instalación y configuración                |       34 |
+| Programación en C#                         |       34 |
+| Programación en C++                        |       39 |
+| Programación en Javascript                 |       32 |
+| Programación en PHP                        |       38 |
+| Reingeniería de procesos                   |       17 |
+| Soporte de bugs                            |       31 |
+| Testing de integración                     |       38 |
+| Testing unitario                           |       25 |
++--------------------------------------------+----------+
+
+12
+
++----+--------------------+------------+
+| ID |       Nombre       | TotalHoras |
++----+--------------------+------------+
+|  1 | Login              |       2182 |
+|  2 | Staff              |       1674 |
+|  3 | Estudiantes        |        473 |
+|  4 | Calificaciones     |       1071 |
+|  5 | Pagos              |        114 |
+|  6 | Sistema de mail    |       1598 |
+|  7 | Proveedores        |        636 |
+|  8 | Pagos              |       1719 |
+|  9 | Clientes           |        873 |
+| 10 | Productos          |       1019 |
+| 11 | Ventas             |        381 |
+| 12 | Animales           |       1338 |
+| 13 | Stock de comida    |        697 |
+| 14 | Stock de vacunas   |        663 |
+| 15 | Mecánicas          |       1029 |
+| 16 | Sistema            |          0 |
+| 17 | Corrector          |        148 |
+| 18 | Adoptantes         |        632 |
+| 19 | Mascotas           |        902 |
+| 20 | Adopciones         |       1197 |
+| 21 | Monetización       |        741 |
+| 22 | Sistema            |          0 |
+| 23 | Monetización       |          0 |
+| 24 | Sistema            |        650 |
+| 25 | Reportes de fallos |       1165 |
+| 26 | Log                |       1205 |
+| 27 | Sistema            |       1077 |
+| 28 | Reportes de fallos |        948 |
+| 29 | Login              |        396 |
+| 30 | Instructores       |        197 |
+| 31 | Clases             |        970 |
+| 32 | Faker              |       1612 |
+| 33 | Acceso             |        325 |
+| 34 | Cursos             |        403 |
+| 35 | Usuarios           |        553 |
+| 36 | Calificaciones     |       1472 |
+| 37 | Sistema            |          0 |
+| 38 | Colorizr           |        925 |
+| 39 | Daltonic           |        673 |
++----+--------------------+------------+
+
+13
+
++----+--------------------+--------------------------------------------+---------------+
+| ID |       Nombre       |                   Nombre                   | PromedioHoras |
++----+--------------------+--------------------------------------------+---------------+
+|  1 | Login              | Análisis de requerimientos                 |            46 |
+|  6 | Sistema de mail    | Análisis de requerimientos                 |            81 |
+|  8 | Pagos              | Análisis de requerimientos                 |            83 |
+|  9 | Clientes           | Análisis de requerimientos                 |            53 |
+| 10 | Productos          | Análisis de requerimientos                 |            69 |
+| 15 | Mecánicas          | Análisis de requerimientos                 |            47 |
+| 17 | Corrector          | Análisis de requerimientos                 |            32 |
+| 18 | Adoptantes         | Análisis de requerimientos                 |           111 |
+| 20 | Adopciones         | Análisis de requerimientos                 |            46 |
+| 21 | Monetización       | Análisis de requerimientos                 |            59 |
+| 26 | Log                | Análisis de requerimientos                 |            62 |
+| 27 | Sistema            | Análisis de requerimientos                 |            58 |
+| 28 | Reportes de fallos | Análisis de requerimientos                 |           108 |
+| 30 | Instructores       | Análisis de requerimientos                 |            53 |
+| 31 | Clases             | Análisis de requerimientos                 |            53 |
+| 32 | Faker              | Análisis de requerimientos                 |            98 |
+| 34 | Cursos             | Análisis de requerimientos                 |            14 |
+| 36 | Calificaciones     | Análisis de requerimientos                 |            70 |
+|  2 | Staff              | Configuración de ambientes de programación |            13 |
+|  6 | Sistema de mail    | Configuración de ambientes de programación |            63 |
+|  7 | Proveedores        | Configuración de ambientes de programación |            57 |
+|  8 | Pagos              | Configuración de ambientes de programación |            52 |
+|  9 | Clientes           | Configuración de ambientes de programación |            48 |
+| 15 | Mecánicas          | Configuración de ambientes de programación |            61 |
+| 25 | Reportes de fallos | Configuración de ambientes de programación |            42 |
+| 35 | Usuarios           | Configuración de ambientes de programación |            49 |
+| 36 | Calificaciones     | Configuración de ambientes de programación |            29 |
+| 38 | Colorizr           | Configuración de ambientes de programación |            68 |
+| 39 | Daltonic           | Configuración de ambientes de programación |            60 |
+|  1 | Login              | Diseño de base de datos                    |            73 |
+|  2 | Staff              | Diseño de base de datos                    |            70 |
+|  6 | Sistema de mail    | Diseño de base de datos                    |            74 |
+|  8 | Pagos              | Diseño de base de datos                    |            58 |
+|  9 | Clientes           | Diseño de base de datos                    |            32 |
+| 12 | Animales           | Diseño de base de datos                    |            44 |
+| 13 | Stock de comida    | Diseño de base de datos                    |           108 |
+| 15 | Mecánicas          | Diseño de base de datos                    |            77 |
+| 19 | Mascotas           | Diseño de base de datos                    |            77 |
+| 20 | Adopciones         | Diseño de base de datos                    |            55 |
+| 21 | Monetización       | Diseño de base de datos                    |            42 |
+| 24 | Sistema            | Diseño de base de datos                    |            91 |
+| 25 | Reportes de fallos | Diseño de base de datos                    |            71 |
+| 27 | Sistema            | Diseño de base de datos                    |            81 |
+| 29 | Login              | Diseño de base de datos                    |            73 |
+| 30 | Instructores       | Diseño de base de datos                    |            48 |
+| 31 | Clases             | Diseño de base de datos                    |            55 |
+| 32 | Faker              | Diseño de base de datos                    |            18 |
+|  2 | Staff              | Diseño de experiencia del usuario          |            58 |
+|  4 | Calificaciones     | Diseño de experiencia del usuario          |            39 |
+|  8 | Pagos              | Diseño de experiencia del usuario          |            64 |
+| 10 | Productos          | Diseño de experiencia del usuario          |            30 |
+| 11 | Ventas             | Diseño de experiencia del usuario          |            53 |
+| 12 | Animales           | Diseño de experiencia del usuario          |            60 |
+| 13 | Stock de comida    | Diseño de experiencia del usuario          |            38 |
+| 15 | Mecánicas          | Diseño de experiencia del usuario          |            84 |
+| 20 | Adopciones         | Diseño de experiencia del usuario          |            28 |
+| 24 | Sistema            | Diseño de experiencia del usuario          |            43 |
+| 27 | Sistema            | Diseño de experiencia del usuario          |            58 |
+| 28 | Reportes de fallos | Diseño de experiencia del usuario          |            31 |
+| 32 | Faker              | Diseño de experiencia del usuario          |            61 |
+| 36 | Calificaciones     | Diseño de experiencia del usuario          |           117 |
+| 38 | Colorizr           | Diseño de experiencia del usuario          |            72 |
+| 39 | Daltonic           | Diseño de experiencia del usuario          |            23 |
+|  1 | Login              | Diseño de interfaz UI                      |            90 |
+|  6 | Sistema de mail    | Diseño de interfaz UI                      |            50 |
+|  7 | Proveedores        | Diseño de interfaz UI                      |           102 |
+|  8 | Pagos              | Diseño de interfaz UI                      |            73 |
+|  9 | Clientes           | Diseño de interfaz UI                      |            24 |
+| 10 | Productos          | Diseño de interfaz UI                      |            40 |
+| 12 | Animales           | Diseño de interfaz UI                      |            65 |
+| 14 | Stock de vacunas   | Diseño de interfaz UI                      |            68 |
+| 19 | Mascotas           | Diseño de interfaz UI                      |            34 |
+| 20 | Adopciones         | Diseño de interfaz UI                      |            63 |
+| 24 | Sistema            | Diseño de interfaz UI                      |            78 |
+| 25 | Reportes de fallos | Diseño de interfaz UI                      |            63 |
+| 27 | Sistema            | Diseño de interfaz UI                      |            49 |
+| 28 | Reportes de fallos | Diseño de interfaz UI                      |            84 |
+| 29 | Login              | Diseño de interfaz UI                      |            69 |
+| 32 | Faker              | Diseño de interfaz UI                      |            74 |
+| 33 | Acceso             | Diseño de interfaz UI                      |            45 |
+| 36 | Calificaciones     | Diseño de interfaz UI                      |            78 |
+| 38 | Colorizr           | Diseño de interfaz UI                      |            45 |
+|  1 | Login              | Instalación y configuración                |            57 |
+|  2 | Staff              | Instalación y configuración                |            59 |
+|  4 | Calificaciones     | Instalación y configuración                |            50 |
+|  6 | Sistema de mail    | Instalación y configuración                |           112 |
+|  7 | Proveedores        | Instalación y configuración                |            34 |
+|  9 | Clientes           | Instalación y configuración                |             8 |
+| 18 | Adoptantes         | Instalación y configuración                |            60 |
+| 19 | Mascotas           | Instalación y configuración                |           112 |
+| 21 | Monetización       | Instalación y configuración                |            44 |
+| 24 | Sistema            | Instalación y configuración                |            50 |
+| 26 | Log                | Instalación y configuración                |            75 |
+| 27 | Sistema            | Instalación y configuración                |            98 |
+| 28 | Reportes de fallos | Instalación y configuración                |            41 |
+| 31 | Clases             | Instalación y configuración                |            93 |
+| 32 | Faker              | Instalación y configuración                |            55 |
+| 34 | Cursos             | Instalación y configuración                |            24 |
+| 38 | Colorizr           | Instalación y configuración                |            70 |
+| 39 | Daltonic           | Instalación y configuración                |            49 |
+|  1 | Login              | Programación en C#                         |            76 |
+|  2 | Staff              | Programación en C#                         |            85 |
+|  7 | Proveedores        | Programación en C#                         |            17 |
+|  8 | Pagos              | Programación en C#                         |            82 |
+| 10 | Productos          | Programación en C#                         |            80 |
+| 12 | Animales           | Programación en C#                         |            79 |
+| 18 | Adoptantes         | Programación en C#                         |            57 |
+| 19 | Mascotas           | Programación en C#                         |            69 |
+| 20 | Adopciones         | Programación en C#                         |            89 |
+| 26 | Log                | Programación en C#                         |            58 |
+| 31 | Clases             | Programación en C#                         |            63 |
+| 32 | Faker              | Programación en C#                         |            93 |
+| 33 | Acceso             | Programación en C#                         |            97 |
+| 34 | Cursos             | Programación en C#                         |             8 |
+| 35 | Usuarios           | Programación en C#                         |            86 |
+| 36 | Calificaciones     | Programación en C#                         |           104 |
+| 39 | Daltonic           | Programación en C#                         |            84 |
+|  2 | Staff              | Programación en C++                        |            69 |
+|  6 | Sistema de mail    | Programación en C++                        |           108 |
+|  8 | Pagos              | Programación en C++                        |            52 |
+| 12 | Animales           | Programación en C++                        |            46 |
+| 13 | Stock de comida    | Programación en C++                        |            99 |
+| 15 | Mecánicas          | Programación en C++                        |            48 |
+| 18 | Adoptantes         | Programación en C++                        |            60 |
+| 20 | Adopciones         | Programación en C++                        |            71 |
+| 21 | Monetización       | Programación en C++                        |            58 |
+| 24 | Sistema            | Programación en C++                        |            36 |
+| 25 | Reportes de fallos | Programación en C++                        |            92 |
+| 26 | Log                | Programación en C++                        |            68 |
+| 27 | Sistema            | Programación en C++                        |            53 |
+| 31 | Clases             | Programación en C++                        |            75 |
+| 34 | Cursos             | Programación en C++                        |            82 |
+|  1 | Login              | Programación en Javascript                 |            87 |
+|  2 | Staff              | Programación en Javascript                 |           101 |
+|  3 | Estudiantes        | Programación en Javascript                 |           111 |
+|  4 | Calificaciones     | Programación en Javascript                 |            86 |
+| 10 | Productos          | Programación en Javascript                 |            67 |
+| 11 | Ventas             | Programación en Javascript                 |            76 |
+| 17 | Corrector          | Programación en Javascript                 |            84 |
+| 18 | Adoptantes         | Programación en Javascript                 |            70 |
+| 19 | Mascotas           | Programación en Javascript                 |            87 |
+| 26 | Log                | Programación en Javascript                 |            49 |
+| 27 | Sistema            | Programación en Javascript                 |            19 |
+| 29 | Login              | Programación en Javascript                 |            57 |
+| 32 | Faker              | Programación en Javascript                 |            59 |
+| 36 | Calificaciones     | Programación en Javascript                 |            80 |
+|  1 | Login              | Programación en PHP                        |            59 |
+|  2 | Staff              | Programación en PHP                        |            60 |
+|  4 | Calificaciones     | Programación en PHP                        |            70 |
+|  5 | Pagos              | Programación en PHP                        |            38 |
+|  6 | Sistema de mail    | Programación en PHP                        |           108 |
+|  8 | Pagos              | Programación en PHP                        |            66 |
+| 11 | Ventas             | Programación en PHP                        |            61 |
+| 12 | Animales           | Programación en PHP                        |            72 |
+| 19 | Mascotas           | Programación en PHP                        |            55 |
+| 26 | Log                | Programación en PHP                        |            80 |
+| 28 | Reportes de fallos | Programación en PHP                        |            77 |
+| 32 | Faker              | Programación en PHP                        |            71 |
+| 36 | Calificaciones     | Programación en PHP                        |            51 |
+| 38 | Colorizr           | Programación en PHP                        |            46 |
+|  1 | Login              | Reingeniería de procesos                   |            79 |
+|  3 | Estudiantes        | Reingeniería de procesos                   |            62 |
+| 12 | Animales           | Reingeniería de procesos                   |            62 |
+| 14 | Stock de vacunas   | Reingeniería de procesos                   |            98 |
+| 35 | Usuarios           | Reingeniería de procesos                   |            51 |
+| 39 | Daltonic           | Reingeniería de procesos                   |           108 |
+|  1 | Login              | Soporte de bugs                            |            94 |
+|  6 | Sistema de mail    | Soporte de bugs                            |            82 |
+|  7 | Proveedores        | Soporte de bugs                            |            26 |
+|  9 | Clientes           | Soporte de bugs                            |            84 |
+| 14 | Stock de vacunas   | Soporte de bugs                            |            66 |
+| 18 | Adoptantes         | Soporte de bugs                            |            48 |
+| 19 | Mascotas           | Soporte de bugs                            |            44 |
+| 24 | Sistema            | Soporte de bugs                            |            22 |
+| 36 | Calificaciones     | Soporte de bugs                            |            92 |
+| 38 | Colorizr           | Soporte de bugs                            |            68 |
+| 39 | Daltonic           | Soporte de bugs                            |            52 |
+|  1 | Login              | Testing de integración                     |            69 |
+|  2 | Staff              | Testing de integración                     |            74 |
+|  4 | Calificaciones     | Testing de integración                     |            71 |
+|  6 | Sistema de mail    | Testing de integración                     |            81 |
+|  7 | Proveedores        | Testing de integración                     |            77 |
+|  9 | Clientes           | Testing de integración                     |            23 |
+| 13 | Stock de comida    | Testing de integración                     |            60 |
+| 21 | Monetización       | Testing de integración                     |            22 |
+| 24 | Sistema            | Testing de integración                     |            34 |
+| 26 | Log                | Testing de integración                     |            78 |
+| 32 | Faker              | Testing de integración                     |            62 |
+| 33 | Acceso             | Testing de integración                     |            61 |
+| 34 | Cursos             | Testing de integración                     |            55 |
+| 35 | Usuarios           | Testing de integración                     |            38 |
+| 36 | Calificaciones     | Testing de integración                     |            15 |
+|  6 | Sistema de mail    | Testing unitario                           |            63 |
+|  9 | Clientes           | Testing unitario                           |           104 |
+| 10 | Productos          | Testing unitario                           |            72 |
+| 12 | Animales           | Testing unitario                           |            47 |
+| 13 | Stock de comida    | Testing unitario                           |            35 |
+| 21 | Monetización       | Testing unitario                           |            30 |
+| 24 | Sistema            | Testing unitario                           |            58 |
+| 25 | Reportes de fallos | Testing unitario                           |            88 |
+| 26 | Log                | Testing unitario                           |            36 |
+| 28 | Reportes de fallos | Testing unitario                           |            57 |
+| 31 | Clases             | Testing unitario                           |            83 |
+| 32 | Faker              | Testing unitario                           |            66 |
+| 35 | Usuarios           | Testing unitario                           |            88 |
++----+--------------------+--------------------------------------------+---------------+
+
+14
+
++----+--------------------+------------------------+----------------------+--------------+
+| ID |       Nombre       |        Apellido        |        Nombre        |  Honorario   |
++----+--------------------+------------------------+----------------------+--------------+
+|  1 | Login              | Adriel Elian           | Rasjido              |  608298.0000 |
+|  1 | Login              | Agustin Lautaro        | Robles               |  347655.0000 |
+|  1 | Login              | Alejandro              | Virasoro             |  315464.0000 |
+|  1 | Login              | Alexis Damian          | Figueira             |  221964.0000 |
+|  1 | Login              | Cecilia Verónica       | Galarza              |  178920.0000 |
+|  1 | Login              | Daniel Alejandro       | Trunso               |  362663.0000 |
+|  1 | Login              | Edgardo Simon          | Gonzalez             |   24427.0000 |
+|  1 | Login              | Elizabeth Carolina     | Ayala                |  230949.0000 |
+|  1 | Login              | Ignacio                | Petrignani Castro    |  989586.0000 |
+|  1 | Login              | Javier Agustin         | Larroca              |  104260.0000 |
+|  1 | Login              | Jonathan Daniel        | Martinez             |  967450.0000 |
+|  1 | Login              | Leonardo Ezequiel      | Alpuin Schunk        |  360720.0000 |
+|  1 | Login              | Mathias Leandro        | Tejeda               | 1376016.0000 |
+|  1 | Login              | Matias                 | Sanchez Villar       |   92147.0000 |
+|  1 | Login              | Matias Andres          | Fahler               |  256424.0000 |
+|  1 | Login              | Matias Joel            | Quintana Soria       |  306240.0000 |
+|  1 | Login              | Maximiliano Guillermo  | Miranda              |  255183.0000 |
+|  1 | Login              | Nahuel Alejandro       | Godoy                |  538650.0000 |
+|  1 | Login              | Pablo Agustín          | Ibazeta              |  136752.0000 |
+|  1 | Login              | Paola Elizabeth        | Barrios              |   72720.0000 |
+|  1 | Login              | Sofia Noemi            | Vigliaccio           |  678272.0000 |
+|  1 | Login              | Tomas                  | Scutti               |  177835.0000 |
+|  1 | Login              | Yesica Regina          | Laurentino Goncalves |  182880.0000 |
+|  2 | Staff              | Agustin Lautaro        | Robles               |  110754.0000 |
+|  2 | Staff              | Alejandro Agustin      | Badano               |   90680.0000 |
+|  2 | Staff              | Alexander Alberto      | Popp                 |  268224.0000 |
+|  2 | Staff              | Alexis Damian          | Figueira             |   56758.0000 |
+|  2 | Staff              | Bruno Alexis           | Ferrante             |  309124.0000 |
+|  2 | Staff              | Cecilia Verónica       | Galarza              |  644362.0000 |
+|  2 | Staff              | Elizabeth Carolina     | Ayala                |  163098.0000 |
+|  2 | Staff              | Emiliano               | Del Pino             |  290325.0000 |
+|  2 | Staff              | German Emanuel         | Mena                 |  261660.0000 |
+|  2 | Staff              | Isidoro                | Arostegui            |  510828.0000 |
+|  2 | Staff              | Jonathan Daniel        | Martinez             |  246840.0000 |
+|  2 | Staff              | Luciano Federico       | Yomayel              |  106348.0000 |
+|  2 | Staff              | Matias                 | Sanchez Villar       |  376187.0000 |
+|  2 | Staff              | Matias Andres          | Fahler               |  250200.0000 |
+|  2 | Staff              | Matias Joel            | Quintana Soria       |  473579.0000 |
+|  2 | Staff              | Maximiliano Guillermo  | Miranda              |  497764.0000 |
+|  2 | Staff              | Pablo Agustín          | Ibazeta              |  198045.0000 |
+|  2 | Staff              | Paola Elizabeth        | Barrios              |  463437.0000 |
+|  2 | Staff              | Walter Emmanuel        | Stamm                |  292818.0000 |
+|  3 | Estudiantes        | Alexis Damian          | Figueira             |  805711.0000 |
+|  3 | Estudiantes        | Isidoro                | Arostegui            |  403065.0000 |
+|  3 | Estudiantes        | Lucas                  | Crucci               |  686194.0000 |
+|  3 | Estudiantes        | Nahuel Alejandro       | Godoy                |  533676.0000 |
+|  3 | Estudiantes        | Sofia Noemi            | Vigliaccio           |  463061.0000 |
+|  4 | Calificaciones     | Agustin Lautaro        | Robles               |   81650.0000 |
+|  4 | Calificaciones     | Bruno Alexis           | Ferrante             |  432470.0000 |
+|  4 | Calificaciones     | Bruno Mauricio         | Molteni              |  121770.0000 |
+|  4 | Calificaciones     | Cecilia Verónica       | Galarza              |  221832.0000 |
+|  4 | Calificaciones     | Edgardo Simon          | Gonzalez             |  335331.0000 |
+|  4 | Calificaciones     | Elizabeth Carolina     | Ayala                |  336258.0000 |
+|  4 | Calificaciones     | Federico Damian        | Di Fulvio            |  285418.0000 |
+|  4 | Calificaciones     | Javier Agustin         | Larroca              |  192694.0000 |
+|  4 | Calificaciones     | Joaquin                | Achaval Duria        |   53080.0000 |
+|  4 | Calificaciones     | Matias                 | Sanchez Villar       |  148768.0000 |
+|  4 | Calificaciones     | Matias Joel            | Quintana Soria       |  289060.0000 |
+|  4 | Calificaciones     | Nahuel Alejandro       | Godoy                |  148127.0000 |
+|  4 | Calificaciones     | Sofia Noemi            | Vigliaccio           |  224361.0000 |
+|  4 | Calificaciones     | Yesica Regina          | Laurentino Goncalves |  360335.0000 |
+|  4 | Calificaciones     | Zair Andres            | Mar Cardozo          |  161472.0000 |
+|  5 | Pagos              | Maximiliano Guillermo  | Miranda              |  150720.0000 |
+|  5 | Pagos              | Sofia Noemi            | Vigliaccio           |  101118.0000 |
+|  5 | Pagos              | Yesica Regina          | Laurentino Goncalves |   47904.0000 |
+|  6 | Sistema de mail    | Agustin Lautaro        | Robles               |  451710.0000 |
+|  6 | Sistema de mail    | Alexis Damian          | Figueira             |  162792.0000 |
+|  6 | Sistema de mail    | Bruno Alexis           | Ferrante             |  100349.0000 |
+|  6 | Sistema de mail    | Daniel Alejandro       | Trunso               |  309246.0000 |
+|  6 | Sistema de mail    | Elizabeth Carolina     | Ayala                |   96393.0000 |
+|  6 | Sistema de mail    | Elmer Dennis           | Vasquez Quispe       |  182574.0000 |
+|  6 | Sistema de mail    | German Emanuel         | Mena                 |  651504.0000 |
+|  6 | Sistema de mail    | Ignacio                | Petrignani Castro    |  506049.0000 |
+|  6 | Sistema de mail    | Isidoro                | Arostegui            |  300448.0000 |
+|  6 | Sistema de mail    | Leonardo Martin        | Scalesi              |  431296.0000 |
+|  6 | Sistema de mail    | Lucas                  | Crucci               |  425209.0000 |
+|  6 | Sistema de mail    | Matias                 | Sanchez Villar       |  504490.0000 |
+|  6 | Sistema de mail    | Maximiliano Guillermo  | Miranda              |   44420.0000 |
+|  6 | Sistema de mail    | Nahuel Alejandro       | Godoy                |  524748.0000 |
+|  6 | Sistema de mail    | Sofia Noemi            | Vigliaccio           |  814370.0000 |
+|  6 | Sistema de mail    | Tomas                  | Scutti               |  416654.0000 |
+|  7 | Proveedores        | Alejandro Agustin      | Badano               |   87290.0000 |
+|  7 | Proveedores        | Bruno Alexis           | Ferrante             |   87464.0000 |
+|  7 | Proveedores        | Edgardo Simon          | Gonzalez             |   66249.0000 |
+|  7 | Proveedores        | Elizabeth Carolina     | Ayala                |  238965.0000 |
+|  7 | Proveedores        | Federico Damian        | Di Fulvio            |   90487.0000 |
+|  7 | Proveedores        | Ignacio                | Petrignani Castro    |  292138.0000 |
+|  7 | Proveedores        | Leonardo Martin        | Scalesi              |  297986.0000 |
+|  7 | Proveedores        | Matias                 | Sanchez Villar       |   41175.0000 |
+|  7 | Proveedores        | Paola Elizabeth        | Barrios              |  430644.0000 |
+|  7 | Proveedores        | Tomas                  | Scutti               |  155736.0000 |
+|  7 | Proveedores        | Walter Emmanuel        | Stamm                |  239080.0000 |
+|  8 | Pagos              | Adriel Elian           | Rasjido              |  688571.0000 |
+|  8 | Pagos              | Alejandro              | Virasoro             |  682444.0000 |
+|  8 | Pagos              | Alejandro Agustin      | Badano               |  448366.0000 |
+|  8 | Pagos              | Alexander Alberto      | Popp                 |   84490.0000 |
+|  8 | Pagos              | Bruno Alexis           | Ferrante             |  359746.0000 |
+|  8 | Pagos              | Bruno Mauricio         | Molteni              |  442231.0000 |
+|  8 | Pagos              | Elizabeth Carolina     | Ayala                |  729832.0000 |
+|  8 | Pagos              | Elmer Dennis           | Vasquez Quispe       |  493974.0000 |
+|  8 | Pagos              | Isidoro                | Arostegui            |  788990.0000 |
+|  8 | Pagos              | Jonathan Daniel        | Martinez             |  674497.0000 |
+|  8 | Pagos              | Luciano Federico       | Yomayel              |  330003.0000 |
+|  8 | Pagos              | Mathias Leandro        | Tejeda               |  170928.0000 |
+|  8 | Pagos              | Matias Andres          | Fahler               |  511210.0000 |
+|  8 | Pagos              | Nahuel Alejandro       | Godoy                |   41327.0000 |
+|  8 | Pagos              | Sofia Noemi            | Vigliaccio           |  176787.0000 |
+|  8 | Pagos              | Tomas                  | Scutti               |  273458.0000 |
+|  8 | Pagos              | Zair Andres            | Mar Cardozo          |  194936.0000 |
+|  9 | Clientes           | Alejandro              | Virasoro             |  346477.0000 |
+|  9 | Clientes           | Alejandro Agustin      | Badano               |  163520.0000 |
+|  9 | Clientes           | Alexander Alberto      | Popp                 |  274198.0000 |
+|  9 | Clientes           | Bruno Alexis           | Ferrante             |  373752.0000 |
+|  9 | Clientes           | Bruno Mauricio         | Molteni              |   33072.0000 |
+|  9 | Clientes           | Edgardo Simon          | Gonzalez             |  221918.0000 |
+|  9 | Clientes           | Elmer Dennis           | Vasquez Quispe       |   16432.0000 |
+|  9 | Clientes           | Ignacio                | Petrignani Castro    |   74290.0000 |
+|  9 | Clientes           | Leonardo Ezequiel      | Alpuin Schunk        |  232530.0000 |
+|  9 | Clientes           | Luciano Federico       | Yomayel              |  143456.0000 |
+|  9 | Clientes           | Maximiliano Guillermo  | Miranda              |  170140.0000 |
+|  9 | Clientes           | Paola Elizabeth        | Barrios              |  393328.0000 |
+|  9 | Clientes           | Walter Emmanuel        | Stamm                |  195687.0000 |
+|  9 | Clientes           | Yesica Regina          | Laurentino Goncalves |  291200.0000 |
+|  9 | Clientes           | Zair Andres            | Mar Cardozo          |  236768.0000 |
+| 10 | Productos          | Adriel Elian           | Rasjido              |  329230.0000 |
+| 10 | Productos          | Agustin Lautaro        | Robles               |   37216.0000 |
+| 10 | Productos          | Alejandro Matias       | Gazzo                |  264080.0000 |
+| 10 | Productos          | Daniel Alejandro       | Trunso               |  186830.0000 |
+| 10 | Productos          | Elizabeth Carolina     | Ayala                |   56782.0000 |
+| 10 | Productos          | Federico Damian        | Di Fulvio            |  619972.0000 |
+| 10 | Productos          | German Emanuel         | Mena                 |  212880.0000 |
+| 10 | Productos          | Ignacio                | Petrignani Castro    |  215892.0000 |
+| 10 | Productos          | Isidoro                | Arostegui            |  242844.0000 |
+| 10 | Productos          | Joaquin                | Achaval Duria        |  482652.0000 |
+| 10 | Productos          | Leonardo Martin        | Scalesi              |  341847.0000 |
+| 10 | Productos          | Luciano Federico       | Yomayel              |  122496.0000 |
+| 10 | Productos          | Mathias Leandro        | Tejeda               |   93602.0000 |
+| 10 | Productos          | Maximiliano Guillermo  | Miranda              |  282982.0000 |
+| 10 | Productos          | Paola Elizabeth        | Barrios              |  592233.0000 |
+| 10 | Productos          | Valentin               | Plaza                |   72811.0000 |
+| 10 | Productos          | Walter Emmanuel        | Stamm                |   59136.0000 |
+| 11 | Ventas             | Cecilia Verónica       | Galarza              |  165968.0000 |
+| 11 | Ventas             | Elmer Dennis           | Vasquez Quispe       |  217566.0000 |
+| 11 | Ventas             | Federico Damian        | Di Fulvio            |   78560.0000 |
+| 11 | Ventas             | Ignacio                | Petrignani Castro    |  412740.0000 |
+| 11 | Ventas             | Isidoro                | Arostegui            |  152812.0000 |
+| 11 | Ventas             | Leonardo Martin        | Scalesi              |  418594.0000 |
+| 12 | Animales           | Adriel Elian           | Rasjido              |  473884.0000 |
+| 12 | Animales           | Alejandro Matias       | Gazzo                |  423507.0000 |
+| 12 | Animales           | Cecilia Verónica       | Galarza              |   70840.0000 |
+| 12 | Animales           | Daniel Alejandro       | Trunso               |  110147.0000 |
+| 12 | Animales           | Elmer Dennis           | Vasquez Quispe       |  219516.0000 |
+| 12 | Animales           | Federico Damian        | Di Fulvio            |  314526.0000 |
+| 12 | Animales           | German Emanuel         | Mena                 |  358512.0000 |
+| 12 | Animales           | Isidoro                | Arostegui            |  330480.0000 |
+| 12 | Animales           | Javier Agustin         | Larroca              |  166998.0000 |
+| 12 | Animales           | Joaquin                | Achaval Duria        |  282057.0000 |
+| 12 | Animales           | Leonardo Martin        | Scalesi              |  176601.0000 |
+| 12 | Animales           | Mathias Leandro        | Tejeda               |  258225.0000 |
+| 12 | Animales           | Matias                 | Sanchez Villar       |   74980.0000 |
+| 12 | Animales           | Matias Andres          | Fahler               |  479720.0000 |
+| 12 | Animales           | Nahuel Alejandro       | Godoy                |  910623.0000 |
+| 12 | Animales           | Pablo Agustín          | Ibazeta              |   66402.0000 |
+| 12 | Animales           | Sofia Noemi            | Vigliaccio           |  651805.0000 |
+| 12 | Animales           | Valentin               | Plaza                |  536796.0000 |
+| 12 | Animales           | Yesica Regina          | Laurentino Goncalves |  202500.0000 |
+| 13 | Stock de comida    | Agustin Lautaro        | Robles               |  633794.0000 |
+| 13 | Stock de comida    | Federico Damian        | Di Fulvio            |  228618.0000 |
+| 13 | Stock de comida    | Ignacio                | Petrignani Castro    |  166668.0000 |
+| 13 | Stock de comida    | Jonathan Daniel        | Martinez             |  125050.0000 |
+| 13 | Stock de comida    | Lucas                  | Crucci               |  115584.0000 |
+| 13 | Stock de comida    | Luciano Federico       | Yomayel              |  450418.0000 |
+| 13 | Stock de comida    | Maximiliano Guillermo  | Miranda              |  219453.0000 |
+| 13 | Stock de comida    | Sofia Noemi            | Vigliaccio           |  277872.0000 |
+| 13 | Stock de comida    | Tomas                  | Scutti               |   94104.0000 |
+| 14 | Stock de vacunas   | Adriel Elian           | Rasjido              |  249356.0000 |
+| 14 | Stock de vacunas   | Agustin Lautaro        | Robles               |  772492.0000 |
+| 14 | Stock de vacunas   | Daniel Alejandro       | Trunso               |   64554.0000 |
+| 14 | Stock de vacunas   | German Emanuel         | Mena                 |  366561.0000 |
+| 14 | Stock de vacunas   | Javier Agustin         | Larroca              |  865980.0000 |
+| 14 | Stock de vacunas   | Leonardo Ezequiel      | Alpuin Schunk        |  412119.0000 |
+| 14 | Stock de vacunas   | Paola Elizabeth        | Barrios              |   26872.0000 |
+| 14 | Stock de vacunas   | Sofia Noemi            | Vigliaccio           |  219716.0000 |
+| 14 | Stock de vacunas   | Tomas                  | Scutti               |  354795.0000 |
+| 15 | Mecánicas          | Adriel Elian           | Rasjido              |  123500.0000 |
+| 15 | Mecánicas          | Alejandro Matias       | Gazzo                |  174440.0000 |
+| 15 | Mecánicas          | Bruno Mauricio         | Molteni              |  292888.0000 |
+| 15 | Mecánicas          | Cecilia Verónica       | Galarza              |   37037.0000 |
+| 15 | Mecánicas          | Emiliano               | Del Pino             |  571273.0000 |
+| 15 | Mecánicas          | Federico Damian        | Di Fulvio            |  122850.0000 |
+| 15 | Mecánicas          | Joaquin                | Achaval Duria        |  453738.0000 |
+| 15 | Mecánicas          | Leonardo Martin        | Scalesi              |  129855.0000 |
+| 15 | Mecánicas          | Luciano Federico       | Yomayel              |  334998.0000 |
+| 15 | Mecánicas          | Mathias Leandro        | Tejeda               |  354080.0000 |
+| 15 | Mecánicas          | Matias Andres          | Fahler               |   48130.0000 |
+| 15 | Mecánicas          | Paola Elizabeth        | Barrios              |  687317.0000 |
+| 15 | Mecánicas          | Sofia Noemi            | Vigliaccio           |  702808.0000 |
+| 15 | Mecánicas          | Walter Emmanuel        | Stamm                |  479273.0000 |
+| 17 | Corrector          | Bruno Alexis           | Ferrante             |  316344.0000 |
+| 17 | Corrector          | Daniel Alejandro       | Trunso               |  120582.0000 |
+| 17 | Corrector          | Luciano Federico       | Yomayel              |  190764.0000 |
+| 18 | Adoptantes         | Alejandro              | Virasoro             |  210512.0000 |
+| 18 | Adoptantes         | Alexis Damian          | Figueira             |  520479.0000 |
+| 18 | Adoptantes         | Edgardo Simon          | Gonzalez             |   91260.0000 |
+| 18 | Adoptantes         | Federico Damian        | Di Fulvio            |  298236.0000 |
+| 18 | Adoptantes         | German Emanuel         | Mena                 |  117510.0000 |
+| 18 | Adoptantes         | Ignacio                | Petrignani Castro    |  185857.0000 |
+| 18 | Adoptantes         | Isidoro                | Arostegui            |  262010.0000 |
+| 18 | Adoptantes         | Joaquin                | Achaval Duria        |  287810.0000 |
+| 18 | Adoptantes         | Matias Andres          | Fahler               |  146890.0000 |
+| 18 | Adoptantes         | Tomas                  | Scutti               |  166364.0000 |
+| 19 | Mascotas           | Adriel Elian           | Rasjido              |  313632.0000 |
+| 19 | Mascotas           | Alejandro              | Virasoro             |  274983.0000 |
+| 19 | Mascotas           | Alejandro Matias       | Gazzo                |  207466.0000 |
+| 19 | Mascotas           | Alexander Alberto      | Popp                 |  187935.0000 |
+| 19 | Mascotas           | Alexis Damian          | Figueira             |  230272.0000 |
+| 19 | Mascotas           | Daniel Alejandro       | Trunso               |  372708.0000 |
+| 19 | Mascotas           | Jonathan Daniel        | Martinez             |   71856.0000 |
+| 19 | Mascotas           | Leonardo Martin        | Scalesi              |  158952.0000 |
+| 19 | Mascotas           | Luciano Federico       | Yomayel              |  472896.0000 |
+| 19 | Mascotas           | Tomas                  | Scutti               |  761996.0000 |
+| 19 | Mascotas           | Yesica Regina          | Laurentino Goncalves |  195328.0000 |
+| 20 | Adopciones         | Agustin Lautaro        | Robles               |  340284.0000 |
+| 20 | Adopciones         | Alejandro              | Virasoro             |  329296.0000 |
+| 20 | Adopciones         | Alejandro Agustin      | Badano               |  778450.0000 |
+| 20 | Adopciones         | Daniel Alejandro       | Trunso               |  472824.0000 |
+| 20 | Adopciones         | Federico Damian        | Di Fulvio            |  200640.0000 |
+| 20 | Adopciones         | Isidoro                | Arostegui            |  540870.0000 |
+| 20 | Adopciones         | Joaquin                | Achaval Duria        |  265146.0000 |
+| 20 | Adopciones         | Jonathan Daniel        | Martinez             |  551217.0000 |
+| 20 | Adopciones         | Leonardo Ezequiel      | Alpuin Schunk        |  268332.0000 |
+| 20 | Adopciones         | Matias Andres          | Fahler               |   50534.0000 |
+| 20 | Adopciones         | Maximiliano Guillermo  | Miranda              |  285360.0000 |
+| 20 | Adopciones         | Nahuel Alejandro       | Godoy                |  201112.0000 |
+| 20 | Adopciones         | Pablo Agustín          | Ibazeta              |  131679.0000 |
+| 20 | Adopciones         | Sofia Noemi            | Vigliaccio           |  481041.0000 |
+| 20 | Adopciones         | Yesica Regina          | Laurentino Goncalves |   67168.0000 |
+| 21 | Monetización       | Agustin Lautaro        | Robles               |  188044.0000 |
+| 21 | Monetización       | Alejandro Agustin      | Badano               |  444382.0000 |
+| 21 | Monetización       | Alexander Alberto      | Popp                 |  114351.0000 |
+| 21 | Monetización       | Bruno Alexis           | Ferrante             |  176796.0000 |
+| 21 | Monetización       | Edgardo Simon          | Gonzalez             |   27430.0000 |
+| 21 | Monetización       | Elmer Dennis           | Vasquez Quispe       |  110000.0000 |
+| 21 | Monetización       | Emiliano               | Del Pino             |  325280.0000 |
+| 21 | Monetización       | Leonardo Martin        | Scalesi              |   47966.0000 |
+| 21 | Monetización       | Lucas                  | Crucci               |  242432.0000 |
+| 21 | Monetización       | Luciano Federico       | Yomayel              |   49280.0000 |
+| 21 | Monetización       | Matias                 | Sanchez Villar       |  134680.0000 |
+| 21 | Monetización       | Nahuel Alejandro       | Godoy                |  538198.0000 |
+| 21 | Monetización       | Valentin               | Plaza                |   87696.0000 |
+| 21 | Monetización       | Walter Emmanuel        | Stamm                |   88200.0000 |
+| 24 | Sistema            | Adriel Elian           | Rasjido              |  178932.0000 |
+| 24 | Sistema            | Alejandro Matias       | Gazzo                |  516878.0000 |
+| 24 | Sistema            | Alexis Damian          | Figueira             |   39208.0000 |
+| 24 | Sistema            | Bruno Mauricio         | Molteni              |  285274.0000 |
+| 24 | Sistema            | Cecilia Verónica       | Galarza              |  214272.0000 |
+| 24 | Sistema            | Emiliano               | Del Pino             |  120960.0000 |
+| 24 | Sistema            | Federico Damian        | Di Fulvio            |  131112.0000 |
+| 24 | Sistema            | Jonathan Daniel        | Martinez             |   14256.0000 |
+| 24 | Sistema            | Nahuel Alejandro       | Godoy                |  100402.0000 |
+| 24 | Sistema            | Paola Elizabeth        | Barrios              |  388661.0000 |
+| 24 | Sistema            | Valentin               | Plaza                |  169832.0000 |
+| 24 | Sistema            | Walter Emmanuel        | Stamm                |  292824.0000 |
+| 25 | Reportes de fallos | Adriel Elian           | Rasjido              |  107750.0000 |
+| 25 | Reportes de fallos | Alejandro              | Virasoro             |  349338.0000 |
+| 25 | Reportes de fallos | Alejandro Matias       | Gazzo                |  176514.0000 |
+| 25 | Reportes de fallos | Bruno Mauricio         | Molteni              |  629185.0000 |
+| 25 | Reportes de fallos | Edgardo Simon          | Gonzalez             |  324120.0000 |
+| 25 | Reportes de fallos | Emiliano               | Del Pino             |  400860.0000 |
+| 25 | Reportes de fallos | Javier Agustin         | Larroca              |   49933.0000 |
+| 25 | Reportes de fallos | Jonathan Daniel        | Martinez             |  189618.0000 |
+| 25 | Reportes de fallos | Leonardo Martin        | Scalesi              |  248584.0000 |
+| 25 | Reportes de fallos | Matias Andres          | Fahler               |  298883.0000 |
+| 25 | Reportes de fallos | Paola Elizabeth        | Barrios              |  663562.0000 |
+| 25 | Reportes de fallos | Valentin               | Plaza                |  472194.0000 |
+| 25 | Reportes de fallos | Walter Emmanuel        | Stamm                |  214104.0000 |
+| 25 | Reportes de fallos | Zair Andres            | Mar Cardozo          |  443500.0000 |
+| 26 | Log                | Alejandro Matias       | Gazzo                |  263520.0000 |
+| 26 | Log                | Alexander Alberto      | Popp                 |   78364.0000 |
+| 26 | Log                | Elmer Dennis           | Vasquez Quispe       |  373186.0000 |
+| 26 | Log                | Javier Agustin         | Larroca              |  187400.0000 |
+| 26 | Log                | Leonardo Ezequiel      | Alpuin Schunk        |   95912.0000 |
+| 26 | Log                | Leonardo Martin        | Scalesi              |  284695.0000 |
+| 26 | Log                | Lucas                  | Crucci               |  150720.0000 |
+| 26 | Log                | Luciano Federico       | Yomayel              |  829574.0000 |
+| 26 | Log                | Matias Andres          | Fahler               |  524370.0000 |
+| 26 | Log                | Nahuel Alejandro       | Godoy                |   90360.0000 |
+| 26 | Log                | Sofia Noemi            | Vigliaccio           |  352737.0000 |
+| 26 | Log                | Yesica Regina          | Laurentino Goncalves |  261146.0000 |
+| 26 | Log                | Zair Andres            | Mar Cardozo          |  478701.0000 |
+| 27 | Sistema            | Adriel Elian           | Rasjido              |  578880.0000 |
+| 27 | Sistema            | Alejandro              | Virasoro             |  152915.0000 |
+| 27 | Sistema            | Alexis Damian          | Figueira             |   56400.0000 |
+| 27 | Sistema            | Bruno Alexis           | Ferrante             |   49350.0000 |
+| 27 | Sistema            | Daniel Alejandro       | Trunso               |   91380.0000 |
+| 27 | Sistema            | Isidoro                | Arostegui            |  231840.0000 |
+| 27 | Sistema            | Leonardo Ezequiel      | Alpuin Schunk        |  229596.0000 |
+| 27 | Sistema            | Leonardo Martin        | Scalesi              |  650089.0000 |
+| 27 | Sistema            | Lucas                  | Crucci               |  784052.0000 |
+| 27 | Sistema            | Luciano Federico       | Yomayel              |  137825.0000 |
+| 27 | Sistema            | Mathias Leandro        | Tejeda               |  405234.0000 |
+| 27 | Sistema            | Matias                 | Sanchez Villar       |   87125.0000 |
+| 27 | Sistema            | Maximiliano Guillermo  | Miranda              |  257951.0000 |
+| 27 | Sistema            | Paola Elizabeth        | Barrios              |  292968.0000 |
+| 27 | Sistema            | Tomas                  | Scutti               |   48412.0000 |
+| 27 | Sistema            | Yesica Regina          | Laurentino Goncalves |  105350.0000 |
+| 27 | Sistema            | Zair Andres            | Mar Cardozo          |  232936.0000 |
+| 28 | Reportes de fallos | Adriel Elian           | Rasjido              |  100368.0000 |
+| 28 | Reportes de fallos | Alejandro              | Virasoro             |  106884.0000 |
+| 28 | Reportes de fallos | Alejandro Matias       | Gazzo                |  444346.0000 |
+| 28 | Reportes de fallos | Bruno Alexis           | Ferrante             |   35024.0000 |
+| 28 | Reportes de fallos | Ignacio                | Petrignani Castro    |  486620.0000 |
+| 28 | Reportes de fallos | Isidoro                | Arostegui            |  177828.0000 |
+| 28 | Reportes de fallos | Javier Agustin         | Larroca              |  142936.0000 |
+| 28 | Reportes de fallos | Jonathan Daniel        | Martinez             |   66619.0000 |
+| 28 | Reportes de fallos | Leonardo Martin        | Scalesi              |   92280.0000 |
+| 28 | Reportes de fallos | Luciano Federico       | Yomayel              |  367920.0000 |
+| 28 | Reportes de fallos | Sofia Noemi            | Vigliaccio           |  260950.0000 |
+| 28 | Reportes de fallos | Yesica Regina          | Laurentino Goncalves |  802460.0000 |
+| 29 | Login              | Alejandro              | Virasoro             |  367048.0000 |
+| 29 | Login              | Alejandro Agustin      | Badano               |  169000.0000 |
+| 29 | Login              | Elizabeth Carolina     | Ayala                |  296453.0000 |
+| 29 | Login              | Emiliano               | Del Pino             |  317360.0000 |
+| 29 | Login              | Federico Damian        | Di Fulvio            |  355509.0000 |
+| 29 | Login              | Paola Elizabeth        | Barrios              |  108800.0000 |
+| 30 | Instructores       | Isidoro                | Arostegui            |  386841.0000 |
+| 30 | Instructores       | Lucas                  | Crucci               |  175569.0000 |
+| 30 | Instructores       | Paola Elizabeth        | Barrios              |   47200.0000 |
+| 30 | Instructores       | Sofia Noemi            | Vigliaccio           |  268710.0000 |
+| 31 | Clases             | Alexis Damian          | Figueira             |   41680.0000 |
+| 31 | Clases             | Bruno Mauricio         | Molteni              |  287790.0000 |
+| 31 | Clases             | Federico Damian        | Di Fulvio            |  155210.0000 |
+| 31 | Clases             | Ignacio                | Petrignani Castro    |  569941.0000 |
+| 31 | Clases             | Isidoro                | Arostegui            |  211376.0000 |
+| 31 | Clases             | Lucas                  | Crucci               |  223572.0000 |
+| 31 | Clases             | Mathias Leandro        | Tejeda               |  229131.0000 |
+| 31 | Clases             | Matias Joel            | Quintana Soria       |  292725.0000 |
+| 31 | Clases             | Maximiliano Guillermo  | Miranda              |  156288.0000 |
+| 31 | Clases             | Nahuel Alejandro       | Godoy                |  140531.0000 |
+| 31 | Clases             | Sofia Noemi            | Vigliaccio           |  302715.0000 |
+| 31 | Clases             | Walter Emmanuel        | Stamm                |  216858.0000 |
+| 32 | Faker              | Adriel Elian           | Rasjido              |   59020.0000 |
+| 32 | Faker              | Alejandro              | Virasoro             |  223769.0000 |
+| 32 | Faker              | Alejandro Agustin      | Badano               |  167243.0000 |
+| 32 | Faker              | Alejandro Matias       | Gazzo                |  461924.0000 |
+| 32 | Faker              | Alexis Damian          | Figueira             |  802984.0000 |
+| 32 | Faker              | Bruno Alexis           | Ferrante             |  909095.0000 |
+| 32 | Faker              | Bruno Mauricio         | Molteni              |  270859.0000 |
+| 32 | Faker              | Daniel Alejandro       | Trunso               |   70695.0000 |
+| 32 | Faker              | Edgardo Simon          | Gonzalez             |  720660.0000 |
+| 32 | Faker              | Elmer Dennis           | Vasquez Quispe       |   88084.0000 |
+| 32 | Faker              | Javier Agustin         | Larroca              |  273934.0000 |
+| 32 | Faker              | Luciano Federico       | Yomayel              |  446504.0000 |
+| 32 | Faker              | Mathias Leandro        | Tejeda               |  316434.0000 |
+| 32 | Faker              | Pablo Agustín          | Ibazeta              |  454363.0000 |
+| 32 | Faker              | Yesica Regina          | Laurentino Goncalves |  496658.0000 |
+| 32 | Faker              | Zair Andres            | Mar Cardozo          |  258725.0000 |
+| 33 | Acceso             | Federico Damian        | Di Fulvio            |  113283.0000 |
+| 33 | Acceso             | Joaquin                | Achaval Duria        |  219015.0000 |
+| 33 | Acceso             | Leonardo Ezequiel      | Alpuin Schunk        |  251160.0000 |
+| 33 | Acceso             | Paola Elizabeth        | Barrios              |   55998.0000 |
+| 33 | Acceso             | Tomas                  | Scutti               |  339500.0000 |
+| 34 | Cursos             | Adriel Elian           | Rasjido              |  361018.0000 |
+| 34 | Cursos             | Alejandro Agustin      | Badano               |   66217.0000 |
+| 34 | Cursos             | Alexis Damian          | Figueira             |  184614.0000 |
+| 34 | Cursos             | German Emanuel         | Mena                 |  286254.0000 |
+| 34 | Cursos             | Ignacio                | Petrignani Castro    |   31048.0000 |
+| 34 | Cursos             | Javier Agustin         | Larroca              |  258368.0000 |
+| 34 | Cursos             | Matias                 | Sanchez Villar       |   71512.0000 |
+| 34 | Cursos             | Yesica Regina          | Laurentino Goncalves |   37224.0000 |
+| 35 | Usuarios           | Agustin Lautaro        | Robles               |  610560.0000 |
+| 35 | Usuarios           | Alexis Damian          | Figueira             |   88160.0000 |
+| 35 | Usuarios           | Bruno Mauricio         | Molteni              |  193207.0000 |
+| 35 | Usuarios           | Daniel Alejandro       | Trunso               |  196240.0000 |
+| 35 | Usuarios           | Isidoro                | Arostegui            |  232700.0000 |
+| 35 | Usuarios           | Joaquin                | Achaval Duria        |  488915.0000 |
+| 35 | Usuarios           | Leonardo Ezequiel      | Alpuin Schunk        |  389066.0000 |
+| 35 | Usuarios           | Paola Elizabeth        | Barrios              |  184281.0000 |
+| 35 | Usuarios           | Sofia Noemi            | Vigliaccio           |  472311.0000 |
+| 36 | Calificaciones     | Adriel Elian           | Rasjido              |   41715.0000 |
+| 36 | Calificaciones     | Agustin Lautaro        | Robles               |  189286.0000 |
+| 36 | Calificaciones     | Alejandro              | Virasoro             |  219816.0000 |
+| 36 | Calificaciones     | Bruno Alexis           | Ferrante             |  531468.0000 |
+| 36 | Calificaciones     | Daniel Alejandro       | Trunso               |  373100.0000 |
+| 36 | Calificaciones     | Elizabeth Carolina     | Ayala                |  417454.0000 |
+| 36 | Calificaciones     | Emiliano               | Del Pino             |  156384.0000 |
+| 36 | Calificaciones     | Isidoro                | Arostegui            |  285384.0000 |
+| 36 | Calificaciones     | Javier Agustin         | Larroca              |  639074.0000 |
+| 36 | Calificaciones     | Joaquin                | Achaval Duria        | 1089978.0000 |
+| 36 | Calificaciones     | Leonardo Ezequiel      | Alpuin Schunk        |  156672.0000 |
+| 36 | Calificaciones     | Luciano Federico       | Yomayel              |  364312.0000 |
+| 36 | Calificaciones     | Matias                 | Sanchez Villar       |  172692.0000 |
+| 36 | Calificaciones     | Matias Andres          | Fahler               |  128828.0000 |
+| 36 | Calificaciones     | Nahuel Alejandro       | Godoy                |  509649.0000 |
+| 36 | Calificaciones     | Tomas                  | Scutti               |   46478.0000 |
+| 36 | Calificaciones     | Valentin               | Plaza                |   80418.0000 |
+| 36 | Calificaciones     | Yesica Regina          | Laurentino Goncalves |   35100.0000 |
+| 36 | Calificaciones     | Zair Andres            | Mar Cardozo          |   56385.0000 |
+| 38 | Colorizr           | Adriel Elian           | Rasjido              |  157600.0000 |
+| 38 | Colorizr           | Alexis Damian          | Figueira             |   89257.0000 |
+| 38 | Colorizr           | Bruno Mauricio         | Molteni              |  307262.0000 |
+| 38 | Colorizr           | Elmer Dennis           | Vasquez Quispe       |  780004.0000 |
+| 38 | Colorizr           | Federico Damian        | Di Fulvio            |  269570.0000 |
+| 38 | Colorizr           | Ignacio                | Petrignani Castro    |  381494.0000 |
+| 38 | Colorizr           | Leonardo Ezequiel      | Alpuin Schunk        |   71984.0000 |
+| 38 | Colorizr           | Mathias Leandro        | Tejeda               |  241839.0000 |
+| 38 | Colorizr           | Matias Andres          | Fahler               |  437140.0000 |
+| 38 | Colorizr           | Maximiliano Guillermo  | Miranda              |  103086.0000 |
+| 38 | Colorizr           | Paola Elizabeth        | Barrios              |  250680.0000 |
+| 38 | Colorizr           | Walter Emmanuel        | Stamm                |  247836.0000 |
+| 38 | Colorizr           | Yesica Regina          | Laurentino Goncalves |   43584.0000 |
+| 39 | Daltonic           | Adriel Elian           | Rasjido              |  387437.0000 |
+| 39 | Daltonic           | Alejandro Matias       | Gazzo                |   79960.0000 |
+| 39 | Daltonic           | Alexis Damian          | Figueira             |  336303.0000 |
+| 39 | Daltonic           | Bruno Alexis           | Ferrante             |   93247.0000 |
+| 39 | Daltonic           | Bruno Mauricio         | Molteni              |  104712.0000 |
+| 39 | Daltonic           | Elizabeth Carolina     | Ayala                |  327574.0000 |
+| 39 | Daltonic           | Elmer Dennis           | Vasquez Quispe       |  158424.0000 |
+| 39 | Daltonic           | Leonardo Ezequiel      | Alpuin Schunk        |  125023.0000 |
+| 39 | Daltonic           | Luciano Federico       | Yomayel              |  322896.0000 |
+| 39 | Daltonic           | Maximiliano Guillermo  | Miranda              |  174972.0000 |
+| 39 | Daltonic           | Walter Emmanuel        | Stamm                |  942732.0000 |
++----+--------------------+------------------------+----------------------+--------------+
+
+15
+
++---------------+-------+---------------+
+|    Nombre     | Horas |  Honorarios   |
++---------------+-------+---------------+
+| ColourAdvisor |  1598 |  6434616.0000 |
+| Faker         |  1612 |  6020951.0000 |
+| Mailer        |  1598 |  5922252.0000 |
+| Monkey Doctor |  1029 |  4512187.0000 |
+| Moodler       |  2753 | 10624844.0000 |
+| PetApp        |  3472 | 13073640.0000 |
+| PlagiApp      |  2025 |  7476538.0000 |
+| Sales manager |  4628 | 17945497.0000 |
+| Scholar       |  5514 | 20980581.0000 |
+| Seals manager |  2698 | 11752125.0000 |
+| UTN Bot       |   148 |   627690.0000 |
+| Wine          |  3020 | 10991441.0000 |
+| Zoomba        |  1563 |  5320307.0000 |
++---------------+-------+---------------+
+
+16
+
++---------+
+| Nombre  |
++---------+
+| UTN Bot |
++---------+
+
+18
+
++------------------+----------------+-----------+
+|     Apellido     |     Nombre     | TiempoMax |
++------------------+----------------+-----------+
+| Emiliano         | Del Pino       |       107 |
+| Matias Andres    | Fahler         |       110 |
+| Alexis Damian    | Figueira       |       120 |
+| Edgardo Simon    | Gonzalez       |       118 |
+| Javier Agustin   | Larroca        |       102 |
+| Zair Andres      | Mar Cardozo    |       107 |
+| Valentin         | Plaza          |       117 |
+| Matias Joel      | Quintana Soria |       118 |
+| Adriel Elian     | Rasjido        |       120 |
+| Agustin Lautaro  | Robles         |       108 |
+| Matias           | Sanchez Villar |       108 |
+| Alejandro        | Virasoro       |       112 |
++------------------+----------------+-----------+
+
+19
+
++------------------------+----------------------+-------------------+
+|        Apellido        |        Nombre        | HonorarioPromedio |
++------------------------+----------------------+-------------------+
+| Joaquin                | Achaval Duria        |       278645.4615 |
+| Leonardo Ezequiel      | Alpuin Schunk        |       235737.6363 |
+| Isidoro                | Arostegui            |       281017.5555 |
+| Elizabeth Carolina     | Ayala                |       241146.5000 |
+| Alejandro Agustin      | Badano               |       219558.9090 |
+| Paola Elizabeth        | Barrios              |       274041.2352 |
+| Lucas                  | Crucci               |       311481.3333 |
+| Federico Damian        | Di Fulvio            |       233142.2142 |
+| Bruno Alexis           | Ferrante             |       222013.4705 |
+| Cecilia Verónica       | Galarza              |       191653.8750 |
+| Alejandro Matias       | Gazzo                |       231741.1538 |
+| Nahuel Alejandro       | Godoy                |       285160.2000 |
+| Pablo Agustín          | Ibazeta              |       197448.2000 |
+| Yesica Regina          | Laurentino Goncalves |       184049.2352 |
+| Jonathan Daniel        | Martinez             |       264309.3636 |
+| German Emanuel         | Mena                 |       281860.1250 |
+| Maximiliano Guillermo  | Miranda              |       199870.6923 |
+| Bruno Mauricio         | Molteni              |       212017.8571 |
+| Ignacio                | Petrignani Castro    |       308023.0714 |
+| Alexander Alberto      | Popp                 |       167927.0000 |
+| Leonardo Martin        | Scalesi              |       252211.1538 |
+| Tomas                  | Scutti               |       202523.7142 |
+| Walter Emmanuel        | Stamm                |       251426.7692 |
+| Mathias Leandro        | Tejeda               |       287124.0833 |
+| Daniel Alejandro       | Trunso               |       210074.5384 |
+| Elmer Dennis           | Vasquez Quispe       |       188554.2857 |
+| Sofia Noemi            | Vigliaccio           |       339401.7894 |
+| Luciano Federico       | Yomayel              |       245773.1578 |
++------------------------+----------------------+-------------------+
+
+20
+
++----------+-------------------+
+|   Tipo   | HonorarioPromedio |
++----------+-------------------+
+| Externos |       237459.0955 |
+| Internos |       246248.5730 |
++----------+-------------------+
+
+21
+
++---------------+----------------+
+|    Nombre     |      Neto      |
++---------------+----------------+
+| Faker         |  -5970951.0000 |
+| ColourAdvisor |  -6356616.0000 |
+| PetApp        | -12973640.0000 |
+| Moodler       | -10504344.0000 |
+| Mailer        |  -5797252.0000 |
+| Scholar       | -20580581.0000 |
+| UTN Bot       |   -177690.0000 |
+| Zoomba        |  -4870307.0000 |
+| PlagiApp      |  -6801538.0000 |
+| Sales manager | -17145497.0000 |
+| Seals manager | -10802125.0000 |
+| Monkey Doctor |  -3512187.0000 |
+| Wine          |  -5541441.0000 |
++---------------+----------------+
+
+22
+
++----------+
+| Cantidad |
++----------+
+|       31 |
++----------+
+
+23
+
++----------------+
+| CantidadTareas |
++----------------+
+|            175 |
++----------------+
+
+24
+
++---------------------------------+----------+
+|             Nombre              | Cantidad |
++---------------------------------+----------+
+| Sales manager                   |        5 |
+| Scholar                         |        5 |
+| Moodler                         |        4 |
+| PetApp                          |        4 |
+| Wine                            |        3 |
+| Zoomba                          |        3 |
+| Seals manager                   |        3 |
+| ColourAdvisor                   |        2 |
+| PlagiApp                        |        2 |
+| Faker                           |        1 |
+| Goto Game Jam Winner Randomizer |        1 |
+| Mailer                          |        1 |
+| Monkey Doctor                   |        1 |
+| UTN Bot                         |        1 |
++---------------------------------+----------+
+
+
