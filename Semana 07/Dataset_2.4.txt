@@ -1,0 +1,537 @@
+1
+
+Nombre       |CostoEstimado|
+-------------|-------------|
+Monkey Doctor| 1000000.0000|
+Sales manager|  800000.0000|
+Seals manager|  950000.0000|
+Wine         | 5450000.0000|
+
+2
+
+RazonSocial                   |CUIT        |Contacto                |
+------------------------------|------------|------------------------|
+Kloster Inc                   |99          |(49) 08363362115        |
+UTN                           |22-222222-2 |info@utn.edu.ar         |
+Clifton Goldney Inc           |33-333333-3 |clifton@goldney.com.ar  |
+Strebern Ich                  |55-555555-5 |[NULL]                  |
+Vaca SA                       |66-666666-6 |info@alancow.com.ar     |
+Adducci                       |88-888888-8 |adducci@gmail.com       |
+Estudio Contable Arevalo y Cía|99-999999-9 |arevalo@yahoo.com.ar    |
+White SA                      |11-0000000-1|nazarenwhite@hotmail.com|
+
+3
+
+id|Nombre |
+--|-------|
+ 2|Uruguay|
+ 3|Chile  |
+ 7|Nigeria|
+
+4
+
+Nombre                         |
+-------------------------------|
+Goto Game Jam Winner Randomizer|
+Gentesss                       |
+
+5
+
+ID|Nombre                                    |PrecioHoraBase|
+--|------------------------------------------|--------------|
+ 3|Diseño de interfaz UI                     |     4000.0000|
+ 4|Diseño de experiencia del usuario         |     4000.0000|
+ 5|Configuración de ambientes de programación|     3500.0000|
+ 6|Programación en C++                       |     3000.0000|
+ 7|Programación en C#                        |     3000.0000|
+ 8|Programación en Javascript                |     3000.0000|
+ 9|Programación en PHP                       |     2500.0000|
+10|Testing unitario                          |     2000.0000|
+11|Testing de integración                    |     2000.0000|
+12|Instalación y configuración               |     1500.0000|
+13|Soporte de bugs                           |     3000.0000|
+14|Reingeniería de procesos                  |     8000.0000|
+
+6
+
+ID  |Nombre                         |CostoEstimado|
+----|-------------------------------|-------------|
+A113|Goto Game Jam Winner Randomizer|   50000.0000|
+C40 |Faker                          |   50000.0000|
+
+7
+
+apellido         |nombre            |
+-----------------|------------------|
+Arostegui        |Isidoro           |
+Badano           |Alejandro Agustin |
+Crucci           |Lucas             |
+Figueira         |Alexis Damian     |
+Petrignani Castro|Ignacio           |
+Rasjido          |Adriel Elian      |
+Tejeda           |Mathias Leandro   |
+Vigliaccio       |Sofia Noemi       |
+Yomayel          |Luciano Federico  |
+
+8
+
+RazonSocial                   |Nombre        |Comenzados|SinComenzar|
+------------------------------|--------------|----------|-----------|
+Brian Lara                    |Estados Unidos|         4|          1|
+Legna Nomis                   |Inglaterra    |         4|          0|
+Kloster Inc                   |Italia        |         0|          1|
+UTN                           |Argentina     |         1|          0|
+World Animal Protection       |Estados Unidos|         2|          0|
+Clifton Goldney Inc           |Estados Unidos|         0|          0|
+Strebern Ich                  |Italia        |         0|          0|
+Vaca SA                       |[NULL]        |         1|          0|
+Hugo Gomez                    |[NULL]        |         1|          0|
+Adducci                       |Argentina     |         1|          0|
+Estudio Contable Arevalo y Cía|Argentina     |         0|          0|
+White SA                      |Argentina     |         0|          0|
+
+9
+nombre            |Nombre                                    |Internos|Externos|
+------------------|------------------------------------------|--------|--------|
+Login             |Análisis de requerimientos                |       4|       0|
+Login             |Diseño de base de datos                   |       2|       1|
+Login             |Diseño de interfaz UI                     |       1|       0|
+Login             |Programación en C#                        |       0|       1|
+Login             |Programación en Javascript                |       3|       1|
+Login             |Programación en PHP                       |       1|       2|
+Login             |Testing unitario                          |       0|       0|
+Login             |Testing de integración                    |       2|       3|
+Login             |Instalación y configuración               |       1|       1|
+Login             |Soporte de bugs                           |       3|       1|
+Login             |Reingeniería de procesos                  |       2|       1|
+Staff             |Diseño de base de datos                   |       2|       0|
+Staff             |Diseño de experiencia del usuario         |       2|       0|
+Staff             |Configuración de ambientes de programación|       0|       1|
+Staff             |Programación en C++                       |       3|       1|
+Staff             |Programación en C#                        |       2|       1|
+Staff             |Programación en Javascript                |       2|       1|
+Staff             |Programación en PHP                       |       1|       3|
+Staff             |Testing unitario                          |       0|       0|
+Staff             |Testing de integración                    |       2|       0|
+Staff             |Instalación y configuración               |       2|       1|
+Estudiantes       |Programación en C#                        |       0|       0|
+Estudiantes       |Programación en Javascript                |       1|       1|
+Estudiantes       |Testing unitario                          |       0|       0|
+Estudiantes       |Testing de integración                    |       0|       0|
+Estudiantes       |Soporte de bugs                           |       0|       0|
+Estudiantes       |Reingeniería de procesos                  |       3|       1|
+Calificaciones    |Diseño de experiencia del usuario         |       0|       2|
+Calificaciones    |Programación en C#                        |       0|       0|
+Calificaciones    |Programación en Javascript                |       5|       1|
+Calificaciones    |Programación en PHP                       |       2|       1|
+Calificaciones    |Testing de integración                    |       2|       1|
+Calificaciones    |Instalación y configuración               |       0|       1|
+Calificaciones    |Soporte de bugs                           |       0|       0|
+Pagos             |Análisis de requerimientos                |       0|       0|
+Pagos             |Programación en PHP                       |       3|       0|
+Sistema de mail   |Análisis de requerimientos                |       1|       2|
+Sistema de mail   |Diseño de base de datos                   |       3|       0|
+Sistema de mail   |Diseño de interfaz UI                     |       2|       1|
+Sistema de mail   |Configuración de ambientes de programación|       3|       0|
+Sistema de mail   |Programación en C++                       |       2|       0|
+Sistema de mail   |Programación en PHP                       |       0|       1|
+Sistema de mail   |Testing unitario                          |       3|       0|
+Sistema de mail   |Testing de integración                    |       1|       0|
+Sistema de mail   |Instalación y configuración               |       1|       0|
+Sistema de mail   |Soporte de bugs                           |       1|       0|
+Proveedores       |Diseño de interfaz UI                     |       1|       0|
+Proveedores       |Configuración de ambientes de programación|       2|       0|
+Proveedores       |Programación en C#                        |       0|       1|
+Proveedores       |Testing de integración                    |       4|       0|
+Proveedores       |Instalación y configuración               |       1|       1|
+Proveedores       |Soporte de bugs                           |       1|       0|
+Pagos             |Análisis de requerimientos                |       2|       1|
+Pagos             |Diseño de base de datos                   |       3|       1|
+Pagos             |Diseño de interfaz UI                     |       4|       0|
+Pagos             |Diseño de experiencia del usuario         |       1|       1|
+Pagos             |Configuración de ambientes de programación|       3|       2|
+Pagos             |Programación en C++                       |       1|       1|
+Pagos             |Programación en C#                        |       2|       1|
+Pagos             |Programación en Javascript                |       0|       0|
+Pagos             |Programación en PHP                       |       3|       0|
+Pagos             |Soporte de bugs                           |       0|       0|
+Clientes          |Análisis de requerimientos                |       2|       0|
+Clientes          |Diseño de base de datos                   |       1|       0|
+Clientes          |Diseño de interfaz UI                     |       1|       0|
+Clientes          |Configuración de ambientes de programación|       3|       1|
+Clientes          |Programación en C#                        |       0|       0|
+Clientes          |Testing unitario                          |       2|       0|
+Clientes          |Testing de integración                    |       2|       0|
+Clientes          |Instalación y configuración               |       1|       0|
+Clientes          |Soporte de bugs                           |       1|       2|
+Productos         |Análisis de requerimientos                |       4|       0|
+Productos         |Diseño de interfaz UI                     |       2|       2|
+Productos         |Diseño de experiencia del usuario         |       2|       0|
+Productos         |Programación en C#                        |       3|       0|
+Productos         |Programación en Javascript                |       2|       0|
+Productos         |Programación en PHP                       |       0|       0|
+Productos         |Testing unitario                          |       1|       1|
+Ventas            |Diseño de experiencia del usuario         |       2|       0|
+Ventas            |Programación en Javascript                |       2|       0|
+Ventas            |Programación en PHP                       |       2|       0|
+Ventas            |Instalación y configuración               |       0|       0|
+Animales          |Análisis de requerimientos                |       0|       0|
+Animales          |Diseño de base de datos                   |       2|       0|
+Animales          |Diseño de interfaz UI                     |       3|       3|
+Animales          |Diseño de experiencia del usuario         |       2|       0|
+Animales          |Programación en C++                       |       3|       2|
+Animales          |Programación en C#                        |       0|       1|
+Animales          |Programación en Javascript                |       0|       0|
+Animales          |Programación en PHP                       |       1|       1|
+Animales          |Testing unitario                          |       2|       0|
+Animales          |Soporte de bugs                           |       0|       0|
+Animales          |Reingeniería de procesos                  |       3|       0|
+Stock de comida   |Diseño de base de datos                   |       0|       1|
+Stock de comida   |Diseño de experiencia del usuario         |       1|       1|
+Stock de comida   |Programación en C++                       |       2|       0|
+Stock de comida   |Testing unitario                          |       2|       0|
+Stock de comida   |Testing de integración                    |       4|       0|
+Stock de vacunas  |Diseño de interfaz UI                     |       2|       0|
+Stock de vacunas  |Instalación y configuración               |       0|       0|
+Stock de vacunas  |Soporte de bugs                           |       4|       1|
+Stock de vacunas  |Reingeniería de procesos                  |       0|       2|
+Mecánicas         |Análisis de requerimientos                |       0|       3|
+Mecánicas         |Diseño de base de datos                   |       3|       0|
+Mecánicas         |Diseño de experiencia del usuario         |       4|       0|
+Mecánicas         |Configuración de ambientes de programación|       2|       0|
+Mecánicas         |Programación en C++                       |       4|       0|
+Mecánicas         |Instalación y configuración               |       0|       0|
+Corrector         |Análisis de requerimientos                |       2|       0|
+Corrector         |Programación en Javascript                |       1|       0|
+Adoptantes        |Análisis de requerimientos                |       0|       1|
+Adoptantes        |Diseño de base de datos                   |       0|       0|
+Adoptantes        |Diseño de interfaz UI                     |       0|       0|
+Adoptantes        |Diseño de experiencia del usuario         |       0|       0|
+Adoptantes        |Diseño de experiencia del usuario         |       0|       0|
+Adoptantes        |Configuración de ambientes de programación|       0|       0|
+Adoptantes        |Programación en C++                       |       3|       0|
+Adoptantes        |Programación en C#                        |       2|       0|
+Adoptantes        |Programación en Javascript                |       1|       0|
+Adoptantes        |Instalación y configuración               |       0|       1|
+Adoptantes        |Soporte de bugs                           |       0|       2|
+Mascotas          |Diseño de base de datos                   |       3|       0|
+Mascotas          |Diseño de interfaz UI                     |       1|       0|
+Mascotas          |Programación en C#                        |       2|       1|
+Mascotas          |Programación en Javascript                |       2|       0|
+Mascotas          |Programación en PHP                       |       1|       0|
+Mascotas          |Instalación y configuración               |       0|       1|
+Mascotas          |Soporte de bugs                           |       1|       1|
+Adopciones        |Análisis de requerimientos                |       3|       0|
+Adopciones        |Diseño de base de datos                   |       2|       2|
+Adopciones        |Diseño de interfaz UI                     |       4|       0|
+Adopciones        |Diseño de experiencia del usuario         |       3|       0|
+Adopciones        |Programación en C++                       |       1|       1|
+Adopciones        |Programación en C#                        |       4|       0|
+Monetización      |Análisis de requerimientos                |       1|       0|
+Monetización      |Diseño de base de datos                   |       3|       2|
+Monetización      |Programación en C++                       |       2|       1|
+Monetización      |Testing unitario                          |       1|       0|
+Monetización      |Testing de integración                    |       1|       1|
+Monetización      |Instalación y configuración               |       4|       1|
+Sistema           |Diseño de base de datos                   |       1|       0|
+Sistema           |Diseño de interfaz UI                     |       2|       0|
+Sistema           |Diseño de experiencia del usuario         |       1|       2|
+Sistema           |Programación en C++                       |       1|       0|
+Sistema           |Testing unitario                          |       1|       0|
+Sistema           |Testing de integración                    |       1|       0|
+Sistema           |Instalación y configuración               |       1|       1|
+Sistema           |Soporte de bugs                           |       1|       1|
+Reportes de fallos|Diseño de base de datos                   |       3|       2|
+Reportes de fallos|Diseño de interfaz UI                     |       3|       2|
+Reportes de fallos|Configuración de ambientes de programación|       1|       2|
+Reportes de fallos|Programación en C++                       |       0|       2|
+Reportes de fallos|Testing unitario                          |       1|       1|
+Log               |Análisis de requerimientos                |       2|       1|
+Log               |Diseño de base de datos                   |       0|       0|
+Log               |Programación en C++                       |       1|       2|
+Log               |Programación en C#                        |       3|       0|
+Log               |Programación en Javascript                |       1|       0|
+Log               |Programación en PHP                       |       3|       0|
+Log               |Testing unitario                          |       1|       0|
+Log               |Testing de integración                    |       2|       1|
+Log               |Instalación y configuración               |       1|       0|
+Sistema           |Análisis de requerimientos                |       1|       2|
+Sistema           |Diseño de base de datos                   |       1|       0|
+Sistema           |Diseño de interfaz UI                     |       4|       1|
+Sistema           |Diseño de experiencia del usuario         |       3|       1|
+Sistema           |Programación en C++                       |       2|       0|
+Sistema           |Programación en Javascript                |       1|       1|
+Sistema           |Instalación y configuración               |       2|       0|
+Reportes de fallos|Análisis de requerimientos                |       1|       0|
+Reportes de fallos|Diseño de interfaz UI                     |       1|       0|
+Reportes de fallos|Diseño de experiencia del usuario         |       3|       0|
+Reportes de fallos|Programación en PHP                       |       5|       1|
+Reportes de fallos|Testing unitario                          |       1|       1|
+Reportes de fallos|Instalación y configuración               |       1|       1|
+Login             |Diseño de base de datos                   |       1|       0|
+Login             |Diseño de interfaz UI                     |       2|       1|
+Login             |Programación en Javascript                |       1|       1|
+Instructores      |Análisis de requerimientos                |       1|       0|
+Instructores      |Diseño de base de datos                   |       3|       0|
+Clases            |Análisis de requerimientos                |       2|       0|
+Clases            |Diseño de base de datos                   |       2|       0|
+Clases            |Programación en C++                       |       0|       1|
+Clases            |Programación en C#                        |       1|       0|
+Clases            |Testing unitario                          |       3|       1|
+Clases            |Instalación y configuración               |       3|       0|
+Faker             |Análisis de requerimientos                |       1|       1|
+Faker             |Diseño de base de datos                   |       2|       0|
+Faker             |Diseño de interfaz UI                     |       1|       1|
+Faker             |Diseño de experiencia del usuario         |       4|       3|
+Faker             |Configuración de ambientes de programación|       0|       0|
+Faker             |Programación en C++                       |       0|       0|
+Faker             |Programación en C#                        |       2|       0|
+Faker             |Programación en Javascript                |       2|       0|
+Faker             |Programación en PHP                       |       0|       1|
+Faker             |Testing unitario                          |       1|       1|
+Faker             |Testing de integración                    |       1|       1|
+Faker             |Instalación y configuración               |       2|       1|
+Acceso            |Diseño de interfaz UI                     |       1|       0|
+Acceso            |Programación en C#                        |       1|       0|
+Acceso            |Testing de integración                    |       3|       0|
+Cursos            |Análisis de requerimientos                |       0|       1|
+Cursos            |Programación en C++                       |       1|       2|
+Cursos            |Programación en C#                        |       1|       0|
+Cursos            |Testing de integración                    |       1|       1|
+Cursos            |Instalación y configuración               |       1|       0|
+Usuarios          |Configuración de ambientes de programación|       1|       0|
+Usuarios          |Programación en C#                        |       2|       0|
+Usuarios          |Programación en PHP                       |       0|       0|
+Usuarios          |Testing unitario                          |       1|       0|
+Usuarios          |Testing de integración                    |       0|       1|
+Usuarios          |Soporte de bugs                           |       0|       0|
+Usuarios          |Reingeniería de procesos                  |       3|       1|
+Calificaciones    |Análisis de requerimientos                |       1|       0|
+Calificaciones    |Diseño de interfaz UI                     |       4|       1|
+Calificaciones    |Diseño de experiencia del usuario         |       1|       0|
+Calificaciones    |Configuración de ambientes de programación|       1|       2|
+Calificaciones    |Programación en C#                        |       2|       0|
+Calificaciones    |Programación en Javascript                |       1|       1|
+Calificaciones    |Programación en PHP                       |       0|       4|
+Calificaciones    |Testing de integración                    |       2|       1|
+Calificaciones    |Soporte de bugs                           |       1|       1|
+Colorizr          |Diseño de interfaz UI                     |       3|       0|
+Colorizr          |Diseño de experiencia del usuario         |       2|       0|
+Colorizr          |Configuración de ambientes de programación|       1|       1|
+Colorizr          |Programación en PHP                       |       2|       0|
+Colorizr          |Instalación y configuración               |       0|       2|
+Colorizr          |Soporte de bugs                           |       4|       0|
+Daltonic          |Diseño de experiencia del usuario         |       1|       1|
+Daltonic          |Configuración de ambientes de programación|       1|       1|
+Daltonic          |Programación en C#                        |       1|       0|
+Daltonic          |Programación en Javascript                |       0|       0|
+Daltonic          |Instalación y configuración               |       1|       0|
+Daltonic          |Soporte de bugs                           |       4|       1|
+Daltonic          |Reingeniería de procesos                  |       1|       0|
+Sistema           |Análisis de requerimientos                |       0|       0|
+Sistema           |Diseño de base de datos                   |       0|       0|
+Monetización      |Análisis de requerimientos                |       0|       0|
+
+10
+
+Nombre                         |CostoEstimado|Exacto|Adelantada|Demorada|
+-------------------------------|-------------|------|----------|--------|
+Scholar                        |  400000.0000|     0|         5|       0|
+Goto Game Jam Winner Randomizer|   50000.0000|     0|         1|       0|
+Monkey Doctor                  | 1000000.0000|     0|         1|       0|
+Moodler                        |  120500.0000|     0|         2|       2|
+PetApp                         |  100000.0000|     0|         4|       0|
+Mailer                         |  125000.0000|     0|         1|       0|
+UTN Bot                        |  450000.0000|     0|         0|       1|
+Faker                          |   50000.0000|     0|         1|       0|
+Sales manager                  |  800000.0000|     0|         5|       0|
+Seals manager                  |  950000.0000|     0|         3|       0|
+GetApp                         |  400000.0000|     0|         0|       0|
+Gentesss                       |  140000.0000|     0|         0|       0|
+Wine                           | 5450000.0000|     0|         3|       0|
+ColourAdvisor                  |   78000.0000|     0|         2|       0|
+PlagiApp                       |  675000.0000|     0|         2|       0|
+Zoomba                         |  450000.0000|     0|         3|       0|
+
+11
+
+Nombre                                    |Internos     |Externos    |
+------------------------------------------|-------------|------------|
+Análisis de requerimientos                | 8012695.0000|4368500.0000|
+Diseño de base de datos                   |10234702.0000|2441658.0000|
+Diseño de interfaz UI                     |12034360.0000|3037669.0000|
+Diseño de experiencia del usuario         | 8300370.0000|2266561.0000|
+Configuración de ambientes de programación| 3651720.0000|2076815.0000|
+Programación en C++                       | 5776871.0000|3386469.0000|
+Programación en C#                        | 7503080.0000|1470269.0000|
+Programación en Javascript                | 6825912.0000|2004096.0000|
+Programación en PHP                       | 4784475.0000|2414501.0000|
+Testing unitario                          | 3261080.0000| 908370.0000|
+Testing de integración                    | 4097778.0000|1500118.0000|
+Instalación y configuración               | 2652048.0000|1292626.0000|
+Soporte de bugs                           | 4926493.0000|2329965.0000|
+Reingeniería de procesos                  | 7326648.0000|2796820.0000|
+
+12
+
+Nombre                         |RazonSocial            |SaldoFinal    |
+-------------------------------|-----------------------|--------------|
+Scholar                        |Brian Lara             |-6962489.30000|
+Goto Game Jam Winner Randomizer|Brian Lara             |   50000.00000|
+Monkey Doctor                  |Brian Lara             | -119831.40000|
+Moodler                        |UTN                    |-3874931.40000|
+PetApp                         |World Animal Protection|-4151508.80000|
+Mailer                         |Legna Nomis            |-1474318.00000|
+UTN Bot                        |Legna Nomis            |  387231.00000|
+Faker                          |Legna Nomis            |-2657277.90000|
+Sales manager                  |Brian Lara             |-4080654.20000|
+Seals manager                  |World Animal Protection|-4053812.50000|
+GetApp                         |Brian Lara             |  400000.00000|
+Gentesss                       |Kloster Inc            |  140000.00000|
+Wine                           |Adducci                |  619473.00000|
+ColourAdvisor                  |Hugo Gomez             |-1832424.90000|
+PlagiApp                       |Legna Nomis            |-1385253.40000|
+Zoomba                         |Vaca SA                | -998962.40000|
+
+13
+Proyecto                       |Modulo            |Total |%                |
+-------------------------------|------------------|------|-----------------|
+Scholar                        |Login             |  2182| 39.5719985491476|
+Scholar                        |Staff             |  1674| 30.3590859630032|
+Scholar                        |Estudiantes       |   473|  8.5781646717446|
+Scholar                        |Calificaciones    |  1071| 19.4232861806311|
+Scholar                        |Pagos             |   114|  2.0674646354733|
+Mailer                         |Sistema de mail   |  1598|100.0000000000000|
+Sales manager                  |Proveedores       |   636| 13.7424373379429|
+Sales manager                  |Pagos             |  1719| 37.1434745030250|
+Sales manager                  |Clientes          |   873| 18.8634399308556|
+Sales manager                  |Productos         |  1019| 22.0181503889369|
+Sales manager                  |Ventas            |   381|  8.2324978392394|
+Seals manager                  |Animales          |  1338| 49.5922905856189|
+Seals manager                  |Stock de comida   |   697| 25.8339510748702|
+Seals manager                  |Stock de vacunas  |   663| 24.5737583395107|
+Monkey Doctor                  |Mecánicas         |  1029|100.0000000000000|
+Goto Game Jam Winner Randomizer|Sistema           |     0|  0.0000000000000|
+UTN Bot                        |Corrector         |   148|100.0000000000000|
+PetApp                         |Adoptantes        |   632| 18.2027649769585|
+PetApp                         |Mascotas          |   902| 25.9792626728110|
+PetApp                         |Adopciones        |  1197| 34.4758064516129|
+PetApp                         |Monetización      |   741| 21.3421658986175|
+GetApp                         |Sistema           |     0|  0.0000000000000|
+GetApp                         |Monetización      |     0|  0.0000000000000|
+Wine                           |Sistema           |   650| 21.5231788079470|
+Wine                           |Reportes de fallos|  1165| 38.5761589403973|
+Wine                           |Log               |  1205| 39.9006622516556|
+PlagiApp                       |Sistema           |  1077| 53.1851851851851|
+PlagiApp                       |Reportes de fallos|   948| 46.8148148148148|
+Zoomba                         |Login             |   396| 25.3358925143953|
+Zoomba                         |Instructores      |   197| 12.6039667306461|
+Zoomba                         |Clases            |   970| 62.0601407549584|
+Faker                          |Faker             |  1612|100.0000000000000|
+Moodler                        |Acceso            |   325| 11.8053033054849|
+Moodler                        |Cursos            |   403| 14.6385760988013|
+Moodler                        |Usuarios          |   553| 20.0871776244097|
+Moodler                        |Calificaciones    |  1472| 53.4689429713040|
+Gentesss                       |Sistema           |     0|  0.0000000000000|
+ColourAdvisor                  |Colorizr          |   925| 57.8848560700876|
+ColourAdvisor                  |Daltonic          |   673| 42.1151439299123|
+
+14
+
+Apellido            |Nombre                |Tipo   |Testing|Programacion|
+--------------------|----------------------|-------|-------|------------|
+Achaval Duria       |Joaquin               |Interno|      2|           3|
+Alpuin Schunk       |Leonardo Ezequiel     |Interno|      2|           0|
+Arostegui           |Isidoro               |Interno|      0|           6|
+Ayala               |Elizabeth Carolina    |Interno|      2|           3|
+Badano              |Alejandro Agustin     |Interno|      4|           1|
+Barrios             |Paola Elizabeth       |Interno|      1|           3|
+Crucci              |Lucas                 |Interno|      2|           3|
+Del Pino            |Emiliano              |Externo|      0|           4|
+Di Fulvio           |Federico Damian       |Interno|      2|           6|
+Fahler              |Matias Andres         |Externo|      0|           7|
+Ferrante            |Bruno Alexis          |Interno|      2|           6|
+Figueira            |Alexis Damian         |Externo|      3|           5|
+Galarza             |Cecilia Verónica      |Interno|      0|           4|
+Gazzo               |Alejandro Matias      |Interno|      4|           4|
+Godoy               |Nahuel Alejandro      |Interno|      2|           6|
+Gonzalez            |Edgardo Simon         |Externo|      1|           2|
+Ibazeta             |Pablo Agustín         |Interno|      0|           1|
+Larroca             |Javier Agustin        |Externo|      3|           3|
+Laurentino Goncalves|Yesica Regina         |Interno|      2|           8|
+Mar Cardozo         |Zair Andres           |Externo|      2|           5|
+Martinez            |Jonathan Daniel       |Interno|      1|           4|
+Mena                |German Emanuel        |Interno|      0|           4|
+Miranda             |Maximiliano Guillermo |Interno|      1|           5|
+Molteni             |Bruno Mauricio        |Interno|      3|           3|
+Petrignani Castro   |Ignacio               |Interno|      3|           5|
+Plaza               |Valentin              |Externo|      1|           2|
+Popp                |Alexander Alberto     |Interno|      1|           3|
+Quintana Soria      |Matias Joel           |Externo|      2|           4|
+Rasjido             |Adriel Elian          |Externo|      2|           6|
+Robles              |Agustin Lautaro       |Externo|      0|           2|
+Sanchez Villar      |Matias                |Externo|      0|           6|
+Scalesi             |Leonardo Martin       |Interno|      0|           6|
+Scutti              |Tomas                 |Interno|      3|           7|
+Stamm               |Walter Emmanuel       |Interno|      3|           3|
+Tejeda              |Mathias Leandro       |Interno|      1|           4|
+Trunso              |Daniel Alejandro      |Interno|      2|           4|
+Vasquez Quispe      |Elmer Dennis          |Interno|      2|           5|
+Vigliaccio          |Sofia Noemi           |Interno|      2|           8|
+Virasoro            |Alejandro             |Externo|      1|           4|
+Yomayel             |Luciano Federico      |Interno|      1|           6|
+
+15
+
+Apellido            |Nombre            |
+--------------------|------------------|
+Achaval Duria       |Joaquin           |
+Alpuin Schunk       |Leonardo Ezequiel |
+Figueira            |Alexis Damian     |
+Galarza             |Cecilia Verónica  |
+Larroca             |Javier Agustin    |
+Laurentino Goncalves|Yesica Regina     |
+Mar Cardozo         |Zair Andres       |
+Martinez            |Jonathan Daniel   |
+Plaza               |Valentin          |
+Popp                |Alexander Alberto |
+Quintana Soria      |Matias Joel       |
+
+16
+
+nombre        |Clientes|Colaboradores|
+--------------|--------|-------------|
+Argentina     |       4|           25|
+Uruguay       |       0|            1|
+Chile         |       0|            0|
+Estados Unidos|       3|            4|
+Italia        |       2|            3|
+Inglaterra    |       1|            1|
+Nigeria       |       0|            0|
+
+17
+
+nombre |Clientes|Colaboradores|
+-------|--------|-------------|
+Uruguay|       0|            1|
+
+18
+
+Apellido     |Nombre            |
+-------------|------------------|
+Alpuin Schunk|Leonardo Ezequiel |
+Badano       |Alejandro Agustin |
+
+19
+
+Nombre                 |
+-----------------------|
+Diseño de base de datos|
+Programación en C#     |
+
+20
+
+Nombre |
+-------|
+Moodler|
+
