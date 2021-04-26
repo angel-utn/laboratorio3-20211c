@@ -780,86 +780,88 @@ SET IDENTITY_INSERT [dbo].[Tareas] OFF
 GO
 SET IDENTITY_INSERT [dbo].[Colaboradores] ON 
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (1, N'Achaval Duria', N'Joaquin ', CAST(N'1968-05-03' AS Date), N'I', N'Obispo Lagorio 3548', 2, NULL, N'(387) 962-2847')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (1, N'Achaval Duria', N'Joaquin ', CAST(N'1968-05-03' AS Date), N'I', N'Obispo Lagorio 3548', 2, NULL, N'(387) 962-2847')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (2, N'Alpuin Schunk', N'Leonardo Ezequiel ', CAST(N'1993-01-31' AS Date), N'I', N'Teniente De Amos 1067', 2, N'lalpuin@notmyrealmail.com', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (2, N'Alpuin Schunk', N'Leonardo Ezequiel ', CAST(N'1993-01-31' AS Date), N'I', N'Teniente De Amos 1067', 2, N'lalpuin@notmyrealmail.com', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (3, N'Arostegui', N'Isidoro ', CAST(N'1999-01-12' AS Date), N'I', N'Virrey Kloster 9440', 5, N'iarostegui@nasa.gov', N'(695) 920-0076')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (3, N'Arostegui', N'Isidoro ', CAST(N'1999-01-12' AS Date), N'I', N'Virrey Kloster 9440', 5, N'iarostegui@nasa.gov', N'(695) 920-0076')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (4, N'Ayala', N'Elizabeth Carolina ', CAST(N'1972-08-28' AS Date), N'I', NULL, NULL, N'eayala@google.com', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (4, N'Ayala', N'Elizabeth Carolina ', CAST(N'1972-08-28' AS Date), N'I', NULL, NULL, N'eayala@google.com', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (5, N'Badano', N'Alejandro Agustin ', CAST(N'1996-10-25' AS Date), N'I', N'Doctor Carrasquero 8513', 3, NULL, N'(357) 874-7957')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (5, N'Badano', N'Alejandro Agustin ', CAST(N'1996-10-25' AS Date), N'I', N'Doctor Carrasquero 8513', 3, NULL, N'(357) 874-7957')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (6, N'Barrios', N'Paola Elizabeth ', CAST(N'1988-12-22' AS Date), N'I', N'Doctora Alberti 2622', 1, N'pneighborhood@me.dev', N'(946) 907-8987')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (6, N'Barrios', N'Paola Elizabeth ', CAST(N'1988-12-22' AS Date), N'I', N'Doctora Alberti 2622', 1, N'pneighborhood@me.dev', N'(946) 907-8987')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (7, N'Crucci', N'Lucas ', CAST(N'1966-06-04' AS Date), N'I', N'Presidente Carrasquero 9910', 2, N'lcrucci@hotmail.com.pe', N'(389) 615-9729')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (7, N'Crucci', N'Lucas ', CAST(N'1966-06-04' AS Date), N'I', N'Presidente Carrasquero 9910', 2, N'lcrucci@hotmail.com.pe', N'(389) 615-9729')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (8, N'Del Pino', N'Emiliano ', CAST(N'1977-12-31' AS Date), N'E', N'Villa Laurentino Goncalves 48', 32, N'efromthepine@notmyrealmail.com', N'(368) 886-5181')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (8, N'Del Pino', N'Emiliano ', CAST(N'1977-12-31' AS Date), N'E', N'Villa Laurentino Goncalves 48', 32, N'efromthepine@notmyrealmail.com', N'(368) 886-5181')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (9, N'Di Fulvio', N'Federico Damian ', CAST(N'1978-06-09' AS Date), N'I', N'Doctora Fahler 2288', 3, N'fdifulvio@gmail.com', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (9, N'Di Fulvio', N'Federico Damian ', CAST(N'1978-06-09' AS Date), N'I', N'Doctora Fahler 2288', 3, N'fdifulvio@gmail.com', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (10, N'Fahler', N'Matias Andres ', CAST(N'1985-04-24' AS Date), N'E', N'Virrey Gazzo 2281', 34, NULL, N'(186) 828-6592')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (10, N'Fahler', N'Matias Andres ', CAST(N'1985-04-24' AS Date), N'E', N'Virrey Gazzo 2281', 34, NULL, N'(186) 828-6592')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (11, N'Ferrante', N'Bruno Alexis ', CAST(N'1981-08-21' AS Date), N'I', N'Cabo Dirube 828', 4, N'bferrante@hotmail.com.pe', N'(926) 973-5945')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (11, N'Ferrante', N'Bruno Alexis ', CAST(N'1981-08-21' AS Date), N'I', N'Cabo Dirube 828', 4, N'bferrante@hotmail.com.pe', N'(926) 973-5945')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (12, N'Figueira', N'Alexis Damian ', CAST(N'1994-04-22' AS Date), N'E', N'Cabo Laino 9194', 26, N'afigueira@hotmail.com.uy', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (12, N'Figueira', N'Alexis Damian ', CAST(N'1994-04-22' AS Date), N'E', N'Cabo Laino 9194', 26, N'afigueira@hotmail.com.uy', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (13, N'Galarza', N'Cecilia Verónica ', CAST(N'1989-02-07' AS Date), N'I', N'General Alberti 7067', 5, N'cgalarza@utn.edu.ar', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (13, N'Galarza', N'Cecilia Verónica ', CAST(N'1989-02-07' AS Date), N'I', N'General Alberti 7067', 5, N'cgalarza@utn.edu.ar', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (14, N'Gazzo', N'Alejandro Matias ', CAST(N'1990-03-12' AS Date), N'I', N'Brigadier Barrios 8517', 1, N'agazzo@notmyrealmail.com', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (14, N'Gazzo', N'Alejandro Matias ', CAST(N'1990-03-12' AS Date), N'I', N'Brigadier Barrios 8517', 1, N'agazzo@notmyrealmail.com', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (15, N'Godoy', N'Nahuel Alejandro ', CAST(N'1971-12-28' AS Date), N'I', N'Brigadier Clifton Goldney 9023', 1, N'ngodoy@google.com', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (15, N'Godoy', N'Nahuel Alejandro ', CAST(N'1971-12-28' AS Date), N'I', N'Brigadier Clifton Goldney 9023', 1, N'ngodoy@google.com', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (16, N'Gonzalez', N'Edgardo Simon ', CAST(N'1967-01-02' AS Date), N'E', NULL, NULL, N'egonzalez@fakemail.com', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (16, N'Gonzalez', N'Edgardo Simon ', CAST(N'1967-01-02' AS Date), N'E', NULL, NULL, N'egonzalez@fakemail.com', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (17, N'Ibazeta', N'Pablo Agustín ', CAST(N'1982-07-01' AS Date), N'I', N'Doctora Galarza 4188', 5, N'pibazeta@google.com', N'(578) 581-0349')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (17, N'Ibazeta', N'Pablo Agustín ', CAST(N'1982-07-01' AS Date), N'I', N'Doctora Galarza 4188', 5, N'pibazeta@google.com', N'(578) 581-0349')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (18, N'Larroca', N'Javier Agustin ', CAST(N'1983-11-03' AS Date), N'E', N'Virrey Martinez 1648', 8, N'jlarroca@hotmail.com.ar', N'(723) 346-3332')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (18, N'Larroca', N'Javier Agustin ', CAST(N'1983-11-03' AS Date), N'E', N'Virrey Martinez 1648', 8, N'jlarroca@hotmail.com.ar', N'(723) 346-3332')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (19, N'Laurentino Goncalves', N'Yesica Regina ', CAST(N'1997-04-15' AS Date), N'I', N'Cabo Flori 1649', 3, N'ylaurentino@independiente.com', N'(101) 716-0947')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (19, N'Laurentino Goncalves', N'Yesica Regina ', CAST(N'1997-04-15' AS Date), N'I', N'Cabo Flori 1649', 3, N'ylaurentino@independiente.com', N'(101) 716-0947')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (20, N'Mar Cardozo', N'Zair Andres ', CAST(N'1971-09-19' AS Date), N'E', N'Cabo Crucci 986', 19, N'zmar@hotmail.com.uy', N'(203) 991-1918')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (20, N'Mar Cardozo', N'Zair Andres ', CAST(N'1971-09-19' AS Date), N'E', N'Cabo Crucci 986', 19, N'zmar@hotmail.com.uy', N'(203) 991-1918')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (21, N'Martinez', N'Jonathan Daniel ', CAST(N'1973-07-25' AS Date), N'I', N'Presidente Simon 5842', 2, NULL, N'(328) 853-6797')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (21, N'Martinez', N'Jonathan Daniel ', CAST(N'1973-07-25' AS Date), N'I', N'Presidente Simon 5842', 2, NULL, N'(328) 853-6797')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (22, N'Mena', N'German Emanuel ', CAST(N'1984-09-01' AS Date), N'I', N'General Clifton Goldney 474', 5, NULL, N'(859) 564-9626')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (22, N'Mena', N'German Emanuel ', CAST(N'1984-09-01' AS Date), N'I', N'General Clifton Goldney 474', 5, NULL, N'(859) 564-9626')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (23, N'Miranda', N'Maximiliano Guillermo ', CAST(N'1979-07-07' AS Date), N'I', N'Virrey Barreto Hernandez 310', 3, N'mmiranda@hotmail.com.ar', N'(346) 791-8453')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (23, N'Miranda', N'Maximiliano Guillermo ', CAST(N'1979-07-07' AS Date), N'I', N'Virrey Barreto Hernandez 310', 3, N'mmiranda@hotmail.com.ar', N'(346) 791-8453')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (24, N'Molteni', N'Bruno Mauricio ', CAST(N'1974-11-02' AS Date), N'I', N'General Ayala 6956', 1, N'bmolteni@hotmail.com.uy', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (24, N'Molteni', N'Bruno Mauricio ', CAST(N'1974-11-02' AS Date), N'I', N'General Ayala 6956', 1, N'bmolteni@hotmail.com.uy', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (25, N'Petrignani Castro', N'Ignacio ', CAST(N'1989-02-06' AS Date), N'I', NULL, NULL, N'ipetrignani@notmyrealmail.com', N'(558) 813-4402')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (25, N'Petrignani Castro', N'Ignacio ', CAST(N'1989-02-06' AS Date), N'I', NULL, NULL, N'ipetrignani@notmyrealmail.com', N'(558) 813-4402')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (26, N'Plaza', N'Valentin ', CAST(N'1966-08-03' AS Date), N'E', N'Obispo Dominguez 9081', 24, N'vplaza@notmyrealmail.com', N'(779) 742-0557')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (26, N'Plaza', N'Valentin ', CAST(N'1966-08-03' AS Date), N'E', N'Obispo Dominguez 9081', 24, N'vplaza@notmyrealmail.com', N'(779) 742-0557')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (27, N'Popp', N'Alexander Alberto ', CAST(N'1994-08-24' AS Date), N'I', N'Villa Blanco 8985', 5, N'apopp@google.com', N'(488) 244-5467')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (27, N'Popp', N'Alexander Alberto ', CAST(N'1994-08-24' AS Date), N'I', N'Villa Blanco 8985', 5, N'apopp@google.com', N'(488) 244-5467')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (28, N'Quintana Soria', N'Matias Joel ', CAST(N'1989-01-31' AS Date), N'E', N'Presidente Ciccarelli 8343', 6, N'mquintana@hotmail.com.pe', N'(669) 213-0345')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (28, N'Quintana Soria', N'Matias Joel ', CAST(N'1989-01-31' AS Date), N'E', N'Presidente Ciccarelli 8343', 6, N'mquintana@hotmail.com.pe', N'(669) 213-0345')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (29, N'Rasjido', N'Adriel Elian ', CAST(N'1998-04-27' AS Date), N'E', N'Teniente Lara 1971', 41, N'arasjido@frgp.utn.edu.ar', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (29, N'Rasjido', N'Adriel Elian ', CAST(N'1998-04-27' AS Date), N'E', N'Teniente Lara 1971', 41, N'arasjido@frgp.utn.edu.ar', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (30, N'Robles', N'Agustin Lautaro ', CAST(N'1972-01-30' AS Date), N'E', NULL, NULL, N'arobles@hotmail.com.ar', N'(970) 885-0929')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (30, N'Robles', N'Agustin Lautaro ', CAST(N'1972-01-30' AS Date), N'E', NULL, NULL, N'arobles@hotmail.com.ar', N'(970) 885-0929')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (31, N'Sanchez Villar', N'Matias ', CAST(N'1971-02-20' AS Date), N'E', N'Doctor Barea 721', 17, N'msanchez@fakemail.com', N'(533) 285-8591')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (31, N'Sanchez Villar', N'Matias ', CAST(N'1971-02-20' AS Date), N'E', N'Doctor Barea 721', 17, N'msanchez@fakemail.com', N'(533) 285-8591')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (32, N'Scalesi', N'Leonardo Martin ', CAST(N'1999-05-03' AS Date), N'I', N'Virrey Ciccarelli 2899', 4, NULL, N'(806) 630-4551')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (32, N'Scalesi', N'Leonardo Martin ', CAST(N'1999-05-03' AS Date), N'I', N'Virrey Ciccarelli 2899', 4, NULL, N'(806) 630-4551')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (33, N'Scutti', N'Tomas ', CAST(N'1994-12-06' AS Date), N'I', N'Virrey Lagorio 40', 5, N'tscutti@notmyrealmail.com', N'(169) 249-0460')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (33, N'Scutti', N'Tomas ', CAST(N'1994-12-06' AS Date), N'I', N'Virrey Lagorio 40', 5, N'tscutti@notmyrealmail.com', N'(169) 249-0460')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (34, N'Stamm', N'Walter Emmanuel ', CAST(N'1971-11-16' AS Date), N'I', NULL, NULL, N'wstamm@argentina.ar', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (34, N'Stamm', N'Walter Emmanuel ', CAST(N'1971-11-16' AS Date), N'I', NULL, NULL, N'wstamm@argentina.ar', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (35, N'Tejeda', N'Mathias Leandro ', CAST(N'1987-07-11' AS Date), N'I', N'Doctora Barrios 1948', 4, N'mtejeda@hotmail.com', N'(963) 306-5247')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (35, N'Tejeda', N'Mathias Leandro ', CAST(N'1987-07-11' AS Date), N'I', N'Doctora Barrios 1948', 4, N'mtejeda@hotmail.com', N'(963) 306-5247')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (36, N'Trunso', N'Daniel Alejandro ', CAST(N'1971-09-18' AS Date), N'I', N'Cabo Figueira 3473', 3, NULL, N'(977) 335-7032')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (36, N'Trunso', N'Daniel Alejandro ', CAST(N'1971-09-18' AS Date), N'I', N'Cabo Figueira 3473', 3, NULL, N'(977) 335-7032')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (37, N'Vasquez Quispe', N'Elmer Dennis ', CAST(N'1975-06-18' AS Date), N'I', NULL, NULL, NULL, N'(324) 635-0486')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (37, N'Vasquez Quispe', N'Elmer Dennis ', CAST(N'1975-06-18' AS Date), N'I', NULL, NULL, NULL, N'(324) 635-0486')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (38, N'Vigliaccio', N'Sofia Noemi ', CAST(N'1969-10-22' AS Date), N'I', N'General Lagorio 5572', 2, N'svigliaccio@frgp.utn.edu.ar', N'(564) 377-2363')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (38, N'Vigliaccio', N'Sofia Noemi ', CAST(N'1969-10-22' AS Date), N'I', N'General Lagorio 5572', 2, N'svigliaccio@frgp.utn.edu.ar', N'(564) 377-2363')
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (39, N'Virasoro', N'Alejandro ', CAST(N'1987-02-13' AS Date), N'E', N'Doctor Fahler 1936', 17, N'avirasoro@hotmail.com.ar', NULL)
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (39, N'Virasoro', N'Alejandro ', CAST(N'1987-02-13' AS Date), N'E', N'Doctor Fahler 1936', 17, N'avirasoro@hotmail.com.ar', NULL)
 GO
-INSERT [dbo].[Colaboradores] ([ID], [Nombre], [Apellido], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (40, N'Yomayel', N'Luciano Federico ', CAST(N'1992-03-21' AS Date), N'I', N'General Brizzi 6443', 5, N'lyomayel@hotmail.com', N'(625) 229-4746')
+INSERT [dbo].[Colaboradores] ([ID], [Apellido], [Nombre], [FechaNacimiento], [Tipo], [Domicilio], [IDCiudad], [EMail], [Celular]) VALUES (40, N'Yomayel', N'Luciano Federico ', CAST(N'1992-03-21' AS Date), N'I', N'General Brizzi 6443', 5, N'lyomayel@hotmail.com', N'(625) 229-4746')
 GO
+
+
 SET IDENTITY_INSERT [dbo].[Colaboradores] OFF
 GO
 INSERT [dbo].[Colaboraciones] ([IDTarea], [IDColaborador], [Tiempo], [PrecioHora], [Estado]) VALUES (1, 6, 16, 4545.0000, 1)
