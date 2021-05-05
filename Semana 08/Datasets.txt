@@ -1,0 +1,105 @@
+6
++---------+------+
+| Nombre  | Cant |
++---------+------+
+| Scholar |   36 |
++---------+------+
+
+7
++------------------------+----------------------+-------+-------+-------+
+|        Nombre          |      Apellido        | c2018 | c2019 | c2020 |
++------------------------+----------------------+-------+-------+-------+
+| Joaquin                | Achaval Duria        |   330 |    53 |   514 |
+| Leonardo Ezequiel      | Alpuin Schunk        |   375 |   146 |   286 |
+| Isidoro                | Arostegui            |   703 |   410 |   501 |
+| Elizabeth Carolina     | Ayala                |   292 |   192 |   385 |
+| Alejandro Agustin      | Badano               |   558 |   361 |   103 |
+| Paola Elizabeth        | Barrios              |   399 |     8 |   408 |
+| Lucas                  | Crucci               |   418 |   109 |   215 |
+| Emiliano               | Del Pino             |    80 |     0 |   314 |
+| Federico Damian        | Di Fulvio            |   488 |    71 |   265 |
+| Matias Andres          | Fahler               |   295 |   120 |   229 |
+| Bruno Alexis           | Ferrante             |   658 |   461 |   338 |
+| Alexis Damian          | Figueira             |   462 |   339 |   389 |
+| Cecilia Verónica       | Galarza              |    54 |    46 |   304 |
+| Alejandro Matias       | Gazzo                |   533 |   188 |    40 |
+| Nahuel Alejandro       | Godoy                |   411 |   190 |   451 |
+| Edgardo Simon          | Gonzalez             |   308 |   160 |   124 |
+| Pablo Agustín          | Ibazeta              |   136 |   118 |   114 |
+| Javier Agustin         | Larroca              |   267 |   160 |   367 |
+| Yesica Regina          | Laurentino Goncalves |   656 |   266 |   188 |
+| Zair Andres            | Mar Cardozo          |   257 |   157 |    63 |
+| Jonathan Daniel        | Martinez             |   444 |   352 |   178 |
+| German Emanuel         | Mena                 |   508 |   341 |   165 |
+| Maximiliano Guillermo  | Miranda              |   303 |    70 |   386 |
+| Bruno Mauricio         | Molteni              |   196 |   184 |   262 |
+| Ignacio                | Petrignani Castro    |   618 |   201 |   322 |
+| Valentin               | Plaza                |   176 |     0 |    26 |
+| Alexander Alberto      | Popp                 |   213 |    72 |    88 |
+| Matias Joel            | Quintana Soria       |     0 |     0 |   419 |
+| Adriel Elian           | Rasjido              |   751 |   342 |   306 |
+| Agustin Lautaro        | Robles               |   462 |   268 |   343 |
+| Matias                 | Sanchez Villar       |   251 |   151 |   219 |
+| Leonardo Martin        | Scalesi              |   650 |   235 |    33 |
+| Tomas                  | Scutti               |   624 |   488 |   149 |
+| Walter Emmanuel        | Stamm                |   187 |     0 |   296 |
+| Mathias Leandro        | Tejeda               |   300 |   117 |   486 |
+| Daniel Alejandro       | Trunso               |   494 |   417 |   261 |
+| Elmer Dennis           | Vasquez Quispe       |   383 |   287 |     0 |
+| Sofia Noemi            | Vigliaccio           |   628 |   382 |   837 |
+| Alejandro              | Virasoro             |   631 |   412 |   254 |
+| Luciano Federico       | Yomayel              |   682 |   346 |   231 |
++------------------------+----------------------+-------+-------+-------+
+
+8
++--------------------+----------------------+
+|      Nombre        |      Apellido        |
++--------------------+----------------------+
+| Alejandro Agustin  | Badano               |
+| Bruno Alexis       | Ferrante             |
+| Alejandro Matias   | Gazzo                |
+| Edgardo Simon      | Gonzalez             |
+| Pablo Agustín      | Ibazeta              |
+| Yesica Regina      | Laurentino Goncalves |
+| Zair Andres        | Mar Cardozo          |
+| Jonathan Daniel    | Martinez             |
+| German Emanuel     | Mena                 |
+| Adriel Elian       | Rasjido              |
+| Leonardo Martin    | Scalesi              |
+| Tomas              | Scutti               |
+| Daniel Alejandro   | Trunso               |
+| Elmer Dennis       | Vasquez Quispe       |
+| Alejandro          | Virasoro             |
+| Luciano Federico   | Yomayel              |
++--------------------+----------------------+
+
+9
++------------------------+----------------+
+|        Nombre          |    Apellido    |
++------------------------+----------------+
+| Maximiliano Guillermo  | Miranda        |
+| Mathias Leandro        | Tejeda         |
+| Pablo Agustín          | Ibazeta        |
+| Matias Joel            | Quintana Soria |
++------------------------+----------------+
+
+10
++--------------------------------------------+----------------+----------------+----------+-----------+
+|                   Nombre                   | PrecioHoraBase | PromPrecioHora |   Dif    | Variacion |
++--------------------------------------------+----------------+----------------+----------+-----------+
+| Análisis de requerimientos                 |      4500.0000 |      4984.8000 | 484.8000 | Poca      |
+| Diseño de base de datos                    |      4000.0000 |      4500.5217 | 500.5217 | Mediana   |
+| Diseño de interfaz UI                      |      4000.0000 |      4461.0925 | 461.0925 | Poca      |
+| Diseño de experiencia del usuario          |      4000.0000 |      4589.9069 | 589.9069 | Mediana   |
+| Configuración de ambientes de programación |      3500.0000 |      4042.1785 | 542.1785 | Mediana   |
+| Programación en C++                        |      3000.0000 |      3564.1282 | 564.1282 | Mediana   |
+| Programación en C#                         |      3000.0000 |      3506.6470 | 506.6470 | Mediana   |
+| Programación en Javascript                 |      3000.0000 |      3530.6562 | 530.6562 | Mediana   |
+| Programación en PHP                        |      2500.0000 |      2960.4210 | 460.4210 | Poca      |
+| Testing unitario                           |      2000.0000 |      2509.1600 | 509.1600 | Mediana   |
+| Testing de integración                     |      2000.0000 |      2546.1842 | 546.1842 | Mediana   |
+| Instalación y configuración                |      1500.0000 |      1943.1470 | 443.1470 | Poca      |
+| Soporte de bugs                            |      3000.0000 |      3578.0322 | 578.0322 | Mediana   |
+| Reingeniería de procesos                   |      8000.0000 |      8532.7647 | 532.7647 | Mediana   |
++--------------------------------------------+----------------+----------------+----------+-----------+
+
